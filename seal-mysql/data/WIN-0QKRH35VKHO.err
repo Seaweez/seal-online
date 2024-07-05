@@ -1,0 +1,949 @@
+220719  8:38:04 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:38:04 InnoDB: The InnoDB memory heap is disabled
+220719  8:38:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:38:04 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:38:04 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:38:05 InnoDB: Completed initialization of buffer pool
+220719  8:38:05 InnoDB: highest supported file format is Barracuda.
+220719  8:38:05  InnoDB: Waiting for the background threads to start
+220719  8:38:06 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:38:06 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719  8:38:06 [Warning] 'user' entry 'lulu@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719  8:38:06 [Warning] 'user' entry 'seal@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719  8:38:06 [Warning] 'user' entry 'seal1@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719  8:38:06 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719  8:38:06 [Note] Event Scheduler: Loaded 3 events
+220719  8:38:06 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719  8:39:18 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719  8:39:18 [Note] Event Scheduler: Purging the queue. 3 events
+220719  8:39:18  InnoDB: Starting shutdown...
+220719  8:39:19  InnoDB: Shutdown completed; log sequence number 33196890709
+220719  8:39:19 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719  8:39:39 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:39:39 InnoDB: The InnoDB memory heap is disabled
+220719  8:39:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:39:39 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:39:39 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:39:39 InnoDB: Completed initialization of buffer pool
+220719  8:39:39 InnoDB: highest supported file format is Barracuda.
+220719  8:39:39  InnoDB: Waiting for the background threads to start
+220719  8:39:40 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:39:40 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Incorrect information in file: '.\mysql\user.frm'
+220719  8:39:40 [ERROR] Fatal error: Can't open and lock privilege tables: Incorrect information in file: '.\mysql\user.frm'
+220719  8:39:58 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:39:58 InnoDB: The InnoDB memory heap is disabled
+220719  8:39:58 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:39:58 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:39:58 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:39:58 InnoDB: Completed initialization of buffer pool
+220719  8:39:58 InnoDB: highest supported file format is Barracuda.
+220719  8:39:58  InnoDB: Waiting for the background threads to start
+220719  8:39:59 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:39:59 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Incorrect information in file: '.\mysql\user.frm'
+220719  8:39:59 [ERROR] Fatal error: Can't open and lock privilege tables: Incorrect information in file: '.\mysql\user.frm'
+220719  8:43:36 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:43:36 InnoDB: The InnoDB memory heap is disabled
+220719  8:43:36 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:43:36 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:43:36 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:43:36 InnoDB: Completed initialization of buffer pool
+220719  8:43:36 InnoDB: highest supported file format is Barracuda.
+220719  8:43:36  InnoDB: Waiting for the background threads to start
+220719  8:43:37 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:43:37 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719  8:43:37 [Note] Event Scheduler: Loaded 3 events
+220719  8:43:37 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719  8:46:18 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719  8:46:18 [Note] Event Scheduler: Purging the queue. 3 events
+220719  8:46:18  InnoDB: Starting shutdown...
+220719  8:46:18  InnoDB: Shutdown completed; log sequence number 33196890709
+220719  8:46:18 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719  8:46:34 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:46:35 InnoDB: The InnoDB memory heap is disabled
+220719  8:46:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:46:35 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:46:35 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:46:35 InnoDB: Completed initialization of buffer pool
+220719  8:46:35 InnoDB: highest supported file format is Barracuda.
+220719  8:46:35  InnoDB: Waiting for the background threads to start
+220719  8:46:36 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:46:36 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719  8:46:36 [Note] Event Scheduler: Loaded 3 events
+220719  8:46:36 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719  8:48:33 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719  8:48:33 [Note] Event Scheduler: Purging the queue. 3 events
+220719  8:48:33  InnoDB: Starting shutdown...
+220719  8:48:33  InnoDB: Shutdown completed; log sequence number 33196890709
+220719  8:48:33 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719  8:50:44 [Note] Plugin 'FEDERATED' is disabled.
+220719  8:50:44 InnoDB: The InnoDB memory heap is disabled
+220719  8:50:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  8:50:44 InnoDB: Compressed tables use zlib 1.2.3
+220719  8:50:44 InnoDB: Initializing buffer pool, size = 446.0M
+220719  8:50:44 InnoDB: Completed initialization of buffer pool
+220719  8:50:44 InnoDB: highest supported file format is Barracuda.
+220719  8:50:44  InnoDB: Waiting for the background threads to start
+220719  8:50:45 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  8:50:45 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719  8:50:45 [Note] Event Scheduler: Loaded 3 events
+220719  8:50:45 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719  9:01:15 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719  9:01:15 [Note] Event Scheduler: Purging the queue. 3 events
+220719  9:01:15  InnoDB: Starting shutdown...
+220719  9:01:15  InnoDB: Shutdown completed; log sequence number 33196890709
+220719  9:01:15 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719  9:23:56 [Note] Plugin 'FEDERATED' is disabled.
+220719  9:23:56 InnoDB: The InnoDB memory heap is disabled
+220719  9:23:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719  9:23:56 InnoDB: Compressed tables use zlib 1.2.3
+220719  9:23:56 InnoDB: Initializing buffer pool, size = 446.0M
+220719  9:23:56 InnoDB: Completed initialization of buffer pool
+220719  9:23:56 InnoDB: highest supported file format is Barracuda.
+220719  9:23:56  InnoDB: Waiting for the background threads to start
+220719  9:23:57 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719  9:23:57 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719  9:23:57 [Warning] 'user' entry 'lulu@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719  9:23:57 [Warning] 'user' entry 'seal@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719  9:23:57 [Warning] 'user' entry 'seal1@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719  9:23:57 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719  9:23:57 [Note] Event Scheduler: Loaded 3 events
+220719  9:23:57 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719 10:07:20 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719 10:07:20 [Note] Event Scheduler: Purging the queue. 3 events
+220719 10:07:22 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 1830  user: 'root'
+
+220719 10:07:22 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 7  user: 'root'
+
+220719 10:07:22  InnoDB: Starting shutdown...
+220719 10:07:23  InnoDB: Shutdown completed; log sequence number 33196890719
+220719 10:07:23 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719 10:12:08 [Note] Plugin 'FEDERATED' is disabled.
+220719 10:12:09 InnoDB: The InnoDB memory heap is disabled
+220719 10:12:09 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719 10:12:09 InnoDB: Compressed tables use zlib 1.2.3
+220719 10:12:09 InnoDB: Initializing buffer pool, size = 446.0M
+220719 10:12:10 InnoDB: Completed initialization of buffer pool
+220719 10:12:10 InnoDB: highest supported file format is Barracuda.
+220719 10:12:10  InnoDB: Waiting for the background threads to start
+220719 10:12:11 InnoDB: 1.1.8 started; log sequence number 29556133761
+220719 10:12:11 [Note] Event Scheduler: Loaded 4 events
+220719 10:12:11 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719 10:29:27 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220719 10:29:27 [Note] Event Scheduler: Purging the queue. 4 events
+220719 10:29:27  InnoDB: Starting shutdown...
+220719 10:29:28  InnoDB: Shutdown completed; log sequence number 29556133771
+220719 10:29:28 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220719 10:30:21 [Note] Plugin 'FEDERATED' is disabled.
+220719 10:30:21 InnoDB: The InnoDB memory heap is disabled
+220719 10:30:21 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719 10:30:21 InnoDB: Compressed tables use zlib 1.2.3
+220719 10:30:21 InnoDB: Initializing buffer pool, size = 446.0M
+220719 10:30:21 InnoDB: Completed initialization of buffer pool
+220719 10:30:21 InnoDB: highest supported file format is Barracuda.
+220719 10:30:21  InnoDB: Waiting for the background threads to start
+220719 10:30:22 InnoDB: 1.1.8 started; log sequence number 33196890709
+220719 10:30:22 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719 10:30:22 [Warning] 'user' entry 'lulu@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719 10:30:22 [Warning] 'user' entry 'seal@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719 10:30:22 [Warning] 'user' entry 'seal1@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719 10:30:22 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719 10:30:22 [Note] Event Scheduler: Loaded 3 events
+220719 10:30:22 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220719 17:23:41 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220719 21:46:52 [Note] Plugin 'FEDERATED' is disabled.
+220719 21:46:52 InnoDB: The InnoDB memory heap is disabled
+220719 21:46:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220719 21:46:52 InnoDB: Compressed tables use zlib 1.2.3
+220719 21:46:52 InnoDB: Initializing buffer pool, size = 446.0M
+220719 21:46:53 InnoDB: Completed initialization of buffer pool
+220719 21:46:53 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220719 21:46:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220719 21:47:03  InnoDB: Waiting for the background threads to start
+220719 21:47:04 InnoDB: 1.1.8 started; log sequence number 33196891175
+220719 21:47:04 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719 21:47:04 [Warning] 'user' entry 'lulu@%' has both a password and an authentication plugin specified. The password will be ignored.
+220719 21:47:04 [Warning] 'user' entry 'seal@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719 21:47:04 [Warning] 'user' entry 'seal1@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220719 21:47:05 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220719 21:47:06 [Note] Event Scheduler: Loaded 3 events
+220719 21:47:06 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220721 12:38:45 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+220721 12:38:45 [Note] Event Scheduler: Purging the queue. 3 events
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 56  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 55  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 54  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 53  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 45  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 44  user: 'root'
+
+220721 12:38:47 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 10  user: 'root'
+
+220721 12:38:47  InnoDB: Starting shutdown...
+220721 12:38:48  InnoDB: Shutdown completed; log sequence number 33196891613
+220721 12:38:48 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+220721 12:39:56 [Note] Plugin 'FEDERATED' is disabled.
+220721 12:39:56 InnoDB: The InnoDB memory heap is disabled
+220721 12:39:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220721 12:39:56 InnoDB: Compressed tables use zlib 1.2.3
+220721 12:39:56 InnoDB: Initializing buffer pool, size = 446.0M
+220721 12:39:56 InnoDB: Completed initialization of buffer pool
+220721 12:39:56 InnoDB: highest supported file format is Barracuda.
+220721 12:39:56  InnoDB: Waiting for the background threads to start
+220721 12:39:57 InnoDB: 1.1.8 started; log sequence number 33196891613
+220721 12:39:57 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220721 12:39:57 [Warning] 'user' entry 'lulu@%' has both a password and an authentication plugin specified. The password will be ignored.
+220721 12:39:57 [Warning] 'user' entry 'seal@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220721 12:39:57 [Warning] 'user' entry 'seal1@localhost' has both a password and an authentication plugin specified. The password will be ignored.
+220721 12:39:57 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220721 12:39:57 [Note] Event Scheduler: Loaded 3 events
+220721 12:39:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220722 22:36:43 [ERROR] Cannot find or open table gdb0102/shopinfo from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:37:29 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:37:35 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:37:38 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:37:50 [ERROR] Cannot find or open table seal_member/newplayer from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:38:18 [ERROR] Cannot find or open table seal_member/card from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:38:28 [ERROR] Cannot find or open table seal_member/card from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:38:58  InnoDB: Error: table `seal_member`.`card` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:39:22 [ERROR] Cannot find or open table seal_member/newplayer from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:39:32 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:39:37 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:40:48 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:41:05 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:41:16 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:41:35 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:43:31 [ERROR] Cannot find or open table item/lv230log from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:44:07 [ERROR] Cannot find or open table item/lv230log from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:44:09 [ERROR] Cannot find or open table item/lv230log from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:44:38 [ERROR] Cannot find or open table sealonline_item_mall/auctionlog from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:45:03 [ERROR] Cannot find or open table sealonline_item_mall/shopinfo from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:45:56 [ERROR] Cannot find or open table sealonline_item_mall/paysln from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:46:58 [ERROR] Cannot find or open table sealonline_item_mall/consignment from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:47:33 [ERROR] Cannot find or open table sealonline_item_mall/betting from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:47:42 [ERROR] Cannot find or open table sealonline_item_mall/bet from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:47:50 [ERROR] Cannot find or open table sealonline_item_mall/auctionlog from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:48:06 [ERROR] Cannot find or open table sealonline_item_mall/auctionlog from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:50:05 [ERROR] Cannot find or open table gdb0101/paimaimail_copy from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:50:08  InnoDB: Error: table `gdb0101`.`paimaimail_copy` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:50:11 [ERROR] Cannot find or open table gdb0101/paimaimaillog_copy from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:50:13  InnoDB: Error: table `gdb0101`.`paimaimaillog_copy` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:04 [ERROR] Cannot find or open table gdb0102/bpet from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:07 [ERROR] Cannot find or open table gdb0102/charslot from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:10 [ERROR] Cannot find or open table gdb0102/controllevel from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:10 [ERROR] Cannot find or open table gdb0102/dailytasks from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:11 [ERROR] Cannot find or open table gdb0102/game_union_fuben from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:12 [ERROR] Cannot find or open table gdb0102/gamepointsave from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:12 [ERROR] Cannot find or open table gdb0102/mastermsg from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:13 [ERROR] Cannot find or open table gdb0102/shopinfo from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`bpet` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`charslot` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`controllevel` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`dailytasks` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`gamepointsave` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`game_union_fuben` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:19  InnoDB: Error: table `gdb0102`.`mastermsg` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:52:20  InnoDB: Error: table `gdb0102`.`shopinfo` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:53:38  InnoDB: Error: table `item`.`lv230log` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:54:38 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:55:29 [ERROR] Cannot find or open table seal_member/tuiguang from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:55:33  InnoDB: Error: table `seal_member`.`tuiguang` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:56:44 [ERROR] Cannot find or open table sealonline_item_mall/shopinfo from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:57:09  InnoDB: Error: table `sealonline_item_mall`.`shopinfo` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 22:57:39 [ERROR] Cannot find or open table sealonline_item_mall/paysln from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 22:57:42  InnoDB: Error: table `sealonline_item_mall`.`paysln` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:01:05 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220722 23:01:05 [Note] Event Scheduler: Purging the queue. 3 events
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16953  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16884  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16842  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16825  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16824  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16776  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16773  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16766  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16765  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16764  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16763  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16762  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16761  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16760  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16759  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 16758  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 1676  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 1664  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 1663  user: 'root'
+
+220722 23:01:07 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 1662  user: 'root'
+
+220722 23:01:07  InnoDB: Starting shutdown...
+220722 23:01:08  InnoDB: Shutdown completed; log sequence number 33201369488
+220722 23:01:08 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220722 23:01:09 [Note] Plugin 'FEDERATED' is disabled.
+220722 23:01:09 InnoDB: The InnoDB memory heap is disabled
+220722 23:01:09 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220722 23:01:09 InnoDB: Compressed tables use zlib 1.2.3
+220722 23:01:09 InnoDB: Initializing buffer pool, size = 446.0M
+220722 23:01:09 InnoDB: Completed initialization of buffer pool
+220722 23:01:09 InnoDB: highest supported file format is Barracuda.
+220722 23:01:09  InnoDB: Waiting for the background threads to start
+220722 23:01:10 InnoDB: 1.1.8 started; log sequence number 33201369488
+220722 23:01:10 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220722 23:01:10 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220722 23:01:10 [Note] Event Scheduler: Loaded 3 events
+220722 23:01:10 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220722 23:01:20 [ERROR] Cannot find or open table sealonline_item_mall/bet from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:01:22 [ERROR] Cannot find or open table sealonline_item_mall/betting from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:08:08 [ERROR] Cannot find or open table sealonline_item_mall/bet from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:08:10 [ERROR] Cannot find or open table sealonline_item_mall/auctionlog from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:16:34  InnoDB: Error: table `sealonline_item_mall`.`bet` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:16:38 [ERROR] Cannot find or open table sealonline_item_mall/betting from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:16:40  InnoDB: Error: table `sealonline_item_mall`.`betting` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:16:44  InnoDB: Error: table `sealonline_item_mall`.`auctionlog` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:16:53 [ERROR] Cannot find or open table sealonline_item_mall/paysln from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:16:55  InnoDB: Error: table `sealonline_item_mall`.`paysln` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:17:31  InnoDB: Error: table `sealonline_item_mall`.`consignment` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:23:48 [ERROR] Cannot find or open table seal_member/newplayer from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:23:55 [ERROR] Cannot find or open table seal_member/newplayer from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220722 23:25:17  InnoDB: Error: table `seal_member`.`newplayer` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220722 23:25:45 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220724 20:28:16 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220724 20:28:16 [Note] Event Scheduler: Purging the queue. 3 events
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 1788  user: 'root'
+
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 964  user: 'root'
+
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 956  user: 'root'
+
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 955  user: 'root'
+
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 371  user: 'root'
+
+220724 20:28:18 [Warning] D:\seal2022\MySQL5.5\bin\mysqld: Forcing close of thread 154  user: 'root'
+
+220724 20:28:19  InnoDB: Starting shutdown...
+220724 20:28:26  InnoDB: Shutdown completed; log sequence number 33204861135
+220724 20:28:26 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220724 20:28:32 [Note] Plugin 'FEDERATED' is disabled.
+220724 20:28:32 InnoDB: The InnoDB memory heap is disabled
+220724 20:28:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220724 20:28:32 InnoDB: Compressed tables use zlib 1.2.3
+220724 20:28:32 InnoDB: Initializing buffer pool, size = 446.0M
+220724 20:28:32 InnoDB: Completed initialization of buffer pool
+220724 20:28:32 InnoDB: highest supported file format is Barracuda.
+220724 20:28:38  InnoDB: Waiting for the background threads to start
+220724 20:28:39 InnoDB: 1.1.8 started; log sequence number 33204861135
+220724 20:28:39 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220724 20:28:40 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220724 20:28:41 [Note] Event Scheduler: Loaded 3 events
+220724 20:28:41 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220727  9:16:51 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220727  9:16:51 [Note] Event Scheduler: Purging the queue. 3 events
+220727  9:16:51  InnoDB: Starting shutdown...
+220727  9:16:52  InnoDB: Shutdown completed; log sequence number 33205106629
+220727  9:16:52 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+

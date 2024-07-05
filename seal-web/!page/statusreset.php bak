@@ -1,0 +1,390 @@
+<div id="layout-wrapper">
+    <div class="main-content mb-4">
+        <div class="page-content">
+            <div class="container">
+                <div class="row">
+
+                    <style>
+                        .textz {
+                            font-size: 14px;
+                        }
+                        .input-touchspin::-webkit-outer-spin-button,
+                        .input-touchspin::-webkit-inner-spin-button {
+                            -webkit-appearance: none;
+                            margin: 0;
+                        }
+                        .input-touchspin {
+                            -moz-appearance: textfield;
+                        }
+                    </style>
+                    <?php include './body/sidebar.php' ?>
+                    <div class="col-sm-12 col-md-9">
+                        <!-- <div class="card">
+                            <div class="card-body pt-2">
+                                <div class="p-2">
+                                    <h3>
+                                        <i class="fas fa-virus"></i>
+                                        Status Reset
+                                    </h3>
+                                    <hr>
+                                    <form id="statusreset">
+                                        <div class="form-group">
+                                            <label>Character</label>
+                                            <select class="form-control" name="char_name" id="char_name">
+                                                <option value="">-- Choose Character --</option>
+                                                <?php
+                                                // foreach($pcinfo as $key => $value) {
+                                                //     echo '<option value="'.$value['char_name'].'">'.$value['char_name'].'</option>';
+                                                // }
+                                                ?>
+                                            </select>
+                                        </div>
+                                        <div class="mt-4">
+                                            <button class="btn btn-success btn-block waves-effect waves-light ">Reset</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <div class="card">
+                            <div class="card-body pt-2">
+                                <div class="p-2">
+                                    <h3>
+                                        <i class="fas fa-virus"></i>
+                                        Status Reset
+                                    </h3>
+                                    <hr>
+                                    <form id="setstatus">
+                                        <div class="form-group">
+                                            <label>Character</label>
+                                            <select class="form-control" name="char_name" id="char_name">
+                                                <option value="">Please select a character</option>
+                                                <?php
+                                                foreach($pcinfo as $key => $value) {
+                                                    echo '<option value="'.$value['char_name'].'">'.$value['char_name'].' (Lv: '.$value['level'].')</option>';
+                                                }
+                                                ?>
+                                            </select>
+                                        </div>
+                                        <div class="view-status-msg" style="display:none;color:red;"></div>
+                                        <div class="view-status" style="display:none;">
+                                            <div align="right">
+                                                Available Point: <span id="available_point" style="color:gold;">0</span>
+                                            </div>
+                                            <table class="table">
+                                                <tr>
+                                                    <td width="30%" style="padding-top:20px;">Strength</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="str" name="str" placeholder="Strength" value="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top:20px;">Agility</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="agi" name="agi" placeholder="Agility" value="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top:20px;">Intelligence</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="int" name="int" placeholder="Intelligence" value="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top:20px;">Vitality</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="vit" name="vit" placeholder="Vitality" value="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top:20px;">Wisdom</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="wis" name="wis" placeholder="Wisdom" value="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top:20px;">Luck</td>
+                                                    <td>
+                                                        <input type="number" class="form-control input-touchspin" id="luk" name="luk" placeholder="Luck" value="5">
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <div class="mt-4 text-sm-right">
+                                                <button class="btn btn-success waves-effect waves-light ">Submit</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-6">
+                    Copyright ©
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script> - <a href="https://www.facebook.com/SealMaple">MapleSeal</a>.
+                </div>
+                <div class="col-sm-6">
+                    <div class="text-sm-right d-none d-sm-block">
+                        Edit by Maple
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script type="text/javascript">
+    $(".input-touchspin").TouchSpin({
+        min: 5,
+        max: 760,
+        stepinterval: 1
+    });
+
+    var before_str = 0;
+    var before_agi = 0;
+    var before_int = 0;
+    var before_vit = 0;
+    var before_wis = 0;
+    var before_luk = 0;
+    var available = 0;
+
+    $('#str, #agi, #int, #vit, #wis, #luk').on('keyup change', function() {
+        var str = $('#str').val() - 5;
+        var agi = $('#agi').val() - 5;
+        var int = $('#int').val() - 5;
+        var vit = $('#vit').val() - 5;
+        var wis = $('#wis').val() - 5;
+        var luk = $('#luk').val() - 5;
+        var available_point = $('#available_point').text();
+
+        var total = str + agi + int + vit + wis + luk;
+        var end = available - total;
+        console.log('total: '+total);
+        console.log('end: '+end);
+        if(end < 0) {
+            if($(this).attr('id') == 'str') {
+                $('#str').val(before_str);
+            }
+            if($(this).attr('id') == 'agi') {
+                $('#agi').val(before_agi);
+            }
+            if($(this).attr('id') == 'int') {
+                $('#int').val(before_int);
+            }
+            if($(this).attr('id') == 'vit') {
+                $('#vit').val(before_vit);
+            }
+            if($(this).attr('id') == 'wis') {
+                $('#wis').val(before_wis);
+            }
+            if($(this).attr('id') == 'luk') {
+                $('#luk').val(before_luk);
+            }
+
+            var str = $('#str').val() - 5;
+            var agi = $('#agi').val() - 5;
+            var int = $('#int').val() - 5;
+            var vit = $('#vit').val() - 5;
+            var wis = $('#wis').val() - 5;
+            var luk = $('#luk').val() - 5;
+
+            var total = str + agi + int + vit + wis + luk;
+            var end = available - total;
+            $('#available_point').text(end);
+
+            Swal.fire({
+                text: "You don't have enough available status point !",
+                icon: 'error',
+                confirmButtonColor: '#00C851',
+                confirmButtonText: 'ตกลง',
+                timer: 2500
+            });
+
+        } else {
+            before_str = $('#str').val();
+            before_agi = $('#agi').val();
+            before_int = $('#int').val();
+            before_vit = $('#vit').val();
+            before_wis = $('#wis').val();
+            before_luk = $('#luk').val();
+
+            $('#available_point').text(end);
+        }
+    });
+
+    $("#char_name").on('change', function() {
+        var val = $(this).val();
+
+        $.ajax({
+            type: "POST",
+            dataType: "JSON",
+            url: "system/api/statusreset.php",
+            data: {
+                char_name: val,
+                check: 1,
+            },
+            success: function(data) {
+                console.log(data);
+                $(".view-status-msg").hide();
+                $(".view-status").show();
+                if(data == 'Fuck') {
+                    $(".view-status").hide();
+                }
+                else if(data.levelup_point == 0) {
+                    $(".view-status").hide();
+                    $(".view-status-msg").show();
+                    $(".view-status-msg").text("You don't have enough available status point !");
+                }
+                else {
+                    available = data.levelup_point;
+
+                    $("#available_point").text(data.levelup_point);
+                    $("#str").val(data.strength);
+                    $("#agi").val(data.dexterity);
+                    $("#int").val(data.intelligence);
+                    $("#vit").val(data.mentality);
+                    $("#wis").val(data.constitution);
+                    $("#luk").val(data.sense);
+                }
+
+                before_str = $('#str').val();
+                before_agi = $('#agi').val();
+                before_int = $('#int').val();
+                before_vit = $('#vit').val();
+                before_wis = $('#wis').val();
+                before_luk = $('#luk').val();
+            },
+            error: function(data) {},
+        });
+    });
+
+    $("#setstatus").submit(function(e) {
+        e.preventDefault();
+        var char_name = $("#char_name").val();
+        if (char_name == "") {
+            Swal.fire({
+                text: 'Please choose character',
+                icon: 'error',
+                confirmButtonColor: '#00C851',
+                confirmButtonText: 'ตกลง',
+                timer: 2500
+            })
+        } else {
+            Swal.fire({
+                title: 'คุณแน่ใจมั้ย?',
+                text: "คุณต้องการรีเซ็ตสถานะหรือไม่!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#00C851',
+                cancelButtonColor: '#d33',
+                cancelButtonText: 'ไม่',
+                confirmButtonText: 'ใช่'
+            }).then((result) => {
+                if (result.value) {
+                    if($('#available_point').text() < 0) {
+                        Swal.fire({
+                            text: "You don't have enough available status point !",
+                            icon: 'error',
+                            confirmButtonColor: '#00C851',
+                            confirmButtonText: 'ตกลง',
+                            timer: 2500
+                        });
+                    } else {
+                        $.ajax({
+                            type: "POST",
+                            url: "system/api/statusreset.php",
+                            data: $("#setstatus").serialize(),
+                            success: function(data) {
+                                if (data == "success") {
+                                    Swal.fire({
+                                        text: 'รีเซ็ตสถานะสำเร็จ!',
+                                        icon: 'success',
+                                        timer: 2500,
+                                        confirmButtonColor: '#00C851',
+                                        confirmButtonText: 'ตกลง'
+                                    }).then((result) => {
+                                        window.location.reload();
+                                    });
+                                } else {
+                                    Swal.fire({
+                                        text: data,
+                                        icon: 'error',
+                                        timer: 3500,
+                                        confirmButtonColor: '#00C851',
+                                        confirmButtonText: 'ตกลง'
+                                    })
+                                }
+                            }
+                        });
+                    }
+                }
+            })
+        }
+    });
+
+    $("#statusreset").submit(function(e) {
+        e.preventDefault();
+        var char_name = $("#char_name").val();
+        if (char_name == "") {
+            Swal.fire({
+                text: 'Please choose character',
+                icon: 'error',
+                confirmButtonColor: '#00C851',
+                confirmButtonText: 'ตกลง',
+                timer: 2500
+            })
+        } else {
+            Swal.fire({
+                title: 'คุณแน่ใจมั้ย?',
+                text: "คุณต้องการรีเซ็ตสถานะหรือไม่!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#00C851',
+                cancelButtonColor: '#d33',
+                cancelButtonText: 'ไม่',
+                confirmButtonText: 'ใช่'
+            }).then((result) => {
+                if (result.value) {
+                    $.ajax({
+                        type: "POST",
+                        url: "system/api/statusreset.php",
+                        data: {
+                            char_name: char_name,
+                        },
+                        success: function(data) {
+                            if (data == "success") {
+                                Swal.fire({
+                                    text: 'รีเซ็ตสถานะสำเร็จ!',
+                                    icon: 'success',
+                                    timer: 2500,
+                                    confirmButtonColor: '#00C851',
+                                    confirmButtonText: 'ตกลง'
+                                }).then((result) => {
+                                    window.location.href = "./home";
+                                });
+                            } else {
+                                Swal.fire({
+                                    text: data,
+                                    icon: 'error',
+                                    timer: 3500,
+                                    confirmButtonColor: '#00C851',
+                                    confirmButtonText: 'ตกลง'
+                                })
+                            }
+                        }
+                    });
+                }
+            })
+        }
+    });
+</script>

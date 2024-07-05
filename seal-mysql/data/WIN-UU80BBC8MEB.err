@@ -1,0 +1,1855 @@
+161019 22:51:12 [Note] Plugin 'FEDERATED' is disabled.
+161019 22:51:12 InnoDB: The InnoDB memory heap is disabled
+161019 22:51:12 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161019 22:51:12 InnoDB: Compressed tables use zlib 1.2.3
+161019 22:51:12 InnoDB: Initializing buffer pool, size = 446.0M
+161019 22:51:12 InnoDB: Completed initialization of buffer pool
+161019 22:51:12 InnoDB: highest supported file format is Barracuda.
+161019 22:51:13  InnoDB: Waiting for the background threads to start
+161019 22:51:14 InnoDB: 1.1.8 started; log sequence number 6078619115
+161019 22:51:14 [Note] Event Scheduler: Loaded 3 events
+161019 22:51:14 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161019 22:52:42 [Warning] IP address '115.28.21.91' could not be resolved: 不知道这样的主机。 
+161019 22:54:28 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161020  4:42:34 [Warning] IP address '180.97.221.49' could not be resolved: 不知道这样的主机。 
+161020  7:48:10 [Warning] IP address '222.184.84.150' could not be resolved: 不知道这样的主机。 
+161020  7:51:18 [Warning] IP address '115.231.218.98' could not be resolved: 不知道这样的主机。 
+161020  8:34:20 [Warning] IP address '124.173.115.143' could not be resolved: 不知道这样的主机。 
+161020  9:22:25 [Warning] IP address '45.248.85.206' could not be resolved: 不知道这样的主机。 
+161020  9:55:33 [Warning] IP address '222.186.51.138' could not be resolved: 不知道这样的主机。 
+161020 10:36:06 [Warning] IP address '123.57.140.36' could not be resolved: 不知道这样的主机。 
+161020 11:20:30 [Warning] IP address '43.252.173.73' could not be resolved: 不知道这样的主机。 
+161020 11:44:57 [Note] Hostname 'hkhdc.laws.ms' does not resolve to '182.237.0.106'.
+161020 11:44:57 [Note] Hostname 'hkhdc.laws.ms' has the following IP addresses:
+161020 11:44:57 [Note]  - 123.108.108.3
+
+161020 13:16:45 [Warning] IP address '104.223.17.77' has been resolved to the host name '104.223.17.77.static.quadranet.com', which resembles IPv4-address itself.
+161020 14:09:24 [Warning] IP address '58.221.60.173' could not be resolved: 不知道这样的主机。 
+161020 14:15:15 [Warning] IP address '27.54.254.176' could not be resolved: 不知道这样的主机。 
+161020 14:16:48 [Warning] IP address '58.221.59.201' could not be resolved: 不知道这样的主机。 
+161020 14:33:06 [Warning] IP address '59.56.69.64' could not be resolved: 不知道这样的主机。 
+161020 15:50:39 [Warning] IP address '103.19.232.29' could not be resolved: 不知道这样的主机。 
+161020 17:17:52 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:17:58 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:03 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:19 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:27 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:40 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:50 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:18:56 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:07 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:17 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:23 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:35 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:44 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:51 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:19:56 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:05 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:15 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:27 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:36 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:47 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:20:54 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:04 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:17 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:23 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:36 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:43 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:21:53 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:22:00 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:22:09 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:05 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:17 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:23 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:35 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:39 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:48 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:53 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:37:59 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:11 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:22 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:36 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:47 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:38:55 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:05 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:11 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:17 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:23 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:30 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:39 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:46 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:39:53 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:02 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:19 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:33 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:42 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:50 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:40:57 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:41:10 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:01 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:19 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:24 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:33 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:38 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:44 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:49 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:56:54 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:00 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:09 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:14 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:21 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:27 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:34 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:42 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:57:51 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:01 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:06 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:16 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:22 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:34 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:45 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:58:51 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:00 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:06 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:16 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:27 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:35 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:47 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 17:59:55 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161020 22:44:53 [Warning] IP address '120.76.245.33' could not be resolved: 不知道这样的主机。 
+161020 23:04:43 [Warning] IP address '113.108.21.16' could not be resolved: 不知道这样的主机。 
+161021  1:57:21 [Warning] IP address '124.173.113.45' could not be resolved: 不知道这样的主机。 
+161021  2:37:40 [Warning] IP address '222.215.230.73' could not be resolved: 不知道这样的主机。 
+161021  2:46:23 [Warning] IP address '219.159.88.94' could not be resolved: 不知道这样的主机。 
+161021  3:26:58 [Warning] IP address '101.201.73.184' could not be resolved: 不知道这样的主机。 
+161021  4:11:55 [Warning] IP address '104.223.133.10' could not be resolved: 不知道这样的主机。 
+161021  4:18:57 [Warning] IP address '123.249.0.210' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  4:19:01 [Warning] IP address '123.249.0.210' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  4:19:07 [Warning] IP address '123.249.0.210' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  4:43:05 [Warning] IP address '123.249.45.239' could not be resolved: 不知道这样的主机。 
+161021  6:01:23 [Warning] IP address '180.97.81.60' could not be resolved: 不知道这样的主机。 
+161021  8:09:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:09:36 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:09:41 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:09:49 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:09:55 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:00 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:06 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:14 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:20 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:25 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:31 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:37 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:45 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:50 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:10:57 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:03 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:08 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:14 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:19 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:30 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:39 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:45 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:11:54 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:01 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:07 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:19 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:29 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:35 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:46 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:12:56 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:13:04 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:13:12 [Warning] IP address '123.249.27.194' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021  8:42:05 [Warning] IP address '122.144.136.73' could not be resolved: 不知道这样的主机。 
+161021  9:23:37 [Warning] IP address '61.160.210.28' could not be resolved: 不知道这样的主机。 
+161021 12:06:54 [Warning] IP address '139.129.27.155' could not be resolved: 不知道这样的主机。 
+161021 12:31:46 [Warning] IP address '116.55.242.31' has been resolved to the host name '31.242.55.116.broad.km.yn.dynamic.163data.com.cn', which resembles IPv4-address itself.
+161021 12:38:46 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:38:53 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:38:58 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:39:08 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:39:21 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:39:33 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:39:48 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:39:56 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 12:54:37 [Warning] IP address '173.254.236.72' has been resolved to the host name '173.254.236.72.static.quadranet.com', which resembles IPv4-address itself.
+161021 13:39:54 [Warning] IP address '120.234.7.21' could not be resolved: 不知道这样的主机。 
+161021 15:02:12 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:05:44 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:05:52 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:05:57 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:06:02 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:06:07 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:06:12 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:06:18 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:07:05 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:07:10 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161021 15:40:26 [Warning] IP address '222.186.50.233' could not be resolved: 不知道这样的主机。 
+161021 19:42:53 [Warning] IP address '169.54.233.120' has been resolved to the host name '78.e9.36a9.ip4.static.sl-reverse.com', which resembles IPv4-address itself.
+161021 20:50:54 [Warning] IP address '198.55.114.240' has been resolved to the host name '198.55.114.240.static.quadranet.com', which resembles IPv4-address itself.
+161021 21:27:07 [Warning] IP address '222.179.154.122' has been resolved to the host name '122.154.179.222.cq.cq.cta.net.cn', which resembles IPv4-address itself.
+161021 21:34:10 [Warning] IP address '111.73.46.172' could not be resolved: 不知道这样的主机。 
+161022  1:51:35 [Warning] IP address '104.223.180.22' could not be resolved: 不知道这样的主机。 
+161022  2:41:59 [Warning] IP address '104.223.133.46' could not be resolved: 不知道这样的主机。 
+161022  2:54:46 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+161022  2:54:46 [Note] Event Scheduler: Purging the queue. 3 events
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4686  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4684  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4682  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4681  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4680  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4679  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4678  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4677  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4676  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4675  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4668  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3650  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3647  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3646  user: 'lulu'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3635  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3284  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3283  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3282  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3281  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3280  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3279  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3277  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3276  user: 'seal'
+
+161022  2:54:48 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3275  user: 'seal'
+
+161022  2:54:48  InnoDB: Starting shutdown...
+161022  2:54:48  InnoDB: Shutdown completed; log sequence number 6078619125
+161022  2:54:48 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+161022  3:27:34 [Note] Plugin 'FEDERATED' is disabled.
+161022  3:27:34 InnoDB: The InnoDB memory heap is disabled
+161022  3:27:34 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161022  3:27:34 InnoDB: Compressed tables use zlib 1.2.3
+161022  3:27:34 InnoDB: Initializing buffer pool, size = 446.0M
+161022  3:27:34 InnoDB: Completed initialization of buffer pool
+161022  3:27:34 InnoDB: highest supported file format is Barracuda.
+161022  3:27:34  InnoDB: Waiting for the background threads to start
+161022  3:27:35 InnoDB: 1.1.8 started; log sequence number 6078619125
+161022  3:27:35 [Note] Event Scheduler: Loaded 3 events
+161022  3:27:35 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161022  3:30:23 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161022  3:32:50 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+161022  3:32:50 [Note] Event Scheduler: Purging the queue. 3 events
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 13  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 11  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 10  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 9  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 8  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 7  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 6  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 5  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 2  user: 'seal'
+
+161022  3:32:52 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 1  user: 'seal'
+
+161022  3:32:52  InnoDB: Starting shutdown...
+161022  3:32:53  InnoDB: Shutdown completed; log sequence number 6078619125
+161022  3:32:53 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+161022  3:41:14 [Note] Plugin 'FEDERATED' is disabled.
+161022  3:41:14 InnoDB: The InnoDB memory heap is disabled
+161022  3:41:14 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161022  3:41:14 InnoDB: Compressed tables use zlib 1.2.3
+161022  3:41:14 InnoDB: Initializing buffer pool, size = 446.0M
+161022  3:41:14 InnoDB: Completed initialization of buffer pool
+161022  3:41:14 InnoDB: highest supported file format is Barracuda.
+161022  3:41:14  InnoDB: Waiting for the background threads to start
+161022  3:41:15 InnoDB: 1.1.8 started; log sequence number 6078619125
+161022  3:41:15 [Note] Event Scheduler: Loaded 3 events
+161022  3:41:15 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161022  3:49:52 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161022  3:53:25 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+161022  3:53:25 [Note] Event Scheduler: Purging the queue. 3 events
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 30  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 29  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 28  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 27  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 26  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 25  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 24  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 23  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 22  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 21  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 20  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 19  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 18  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 17  user: 'seal'
+
+161022  3:53:27 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 16  user: 'seal'
+
+161022  3:53:27  InnoDB: Starting shutdown...
+161022  3:53:27  InnoDB: Shutdown completed; log sequence number 6078619151
+161022  3:53:27 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+161022  3:55:24 [Note] Plugin 'FEDERATED' is disabled.
+161022  3:55:24 InnoDB: The InnoDB memory heap is disabled
+161022  3:55:24 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161022  3:55:24 InnoDB: Compressed tables use zlib 1.2.3
+161022  3:55:24 InnoDB: Initializing buffer pool, size = 446.0M
+161022  3:55:24 InnoDB: Completed initialization of buffer pool
+161022  3:55:24 InnoDB: highest supported file format is Barracuda.
+161022  3:55:24  InnoDB: Waiting for the background threads to start
+161022  3:55:25 InnoDB: 1.1.8 started; log sequence number 6078619151
+161022  3:55:25 [Note] Event Scheduler: Loaded 3 events
+161022  3:55:25 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161022  3:56:02 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161022  3:56:04 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161022  4:11:50 [Warning] IP address '115.28.21.91' could not be resolved: 不知道这样的主机。 
+161022  4:46:31 [Warning] IP address '58.221.59.201' could not be resolved: 不知道这样的主机。 
+161022  4:52:49 [Warning] IP address '58.221.60.173' could not be resolved: 不知道这样的主机。 
+161022  5:35:50 [Warning] IP address '218.69.115.22' could not be resolved: 不知道这样的主机。 
+161022  6:21:41 [Warning] IP address '45.116.78.21' could not be resolved: 不知道这样的主机。 
+161022  8:09:15 [Warning] IP address '222.186.50.233' could not be resolved: 不知道这样的主机。 
+161022  8:30:44 [Warning] IP address '115.29.140.197' could not be resolved: 不知道这样的主机。 
+161022  8:32:05 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:10 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:15 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:20 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:26 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:31 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:37 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022  8:32:43 [Warning] IP address '107.160.240.172' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022 10:14:19 [Warning] IP address '182.254.132.244' could not be resolved: 不知道这样的主机。 
+161022 10:45:38 [Warning] IP address '115.28.104.171' could not be resolved: 不知道这样的主机。 
+161022 12:47:07 [Warning] IP address '121.199.70.200' could not be resolved: 不知道这样的主机。 
+161022 13:40:18 [Warning] IP address '61.160.210.28' could not be resolved: 不知道这样的主机。 
+161022 14:27:10 [Warning] IP address '124.173.113.154' could not be resolved: 不知道这样的主机。 
+161022 15:49:42 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022 15:49:48 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161022 16:25:53 [Warning] IP address '173.254.236.23' has been resolved to the host name '173.254.236.23.static.quadranet.com', which resembles IPv4-address itself.
+161022 17:16:25 [Warning] IP address '119.167.109.253' could not be resolved: 不知道这样的主机。 
+161022 18:54:33 [Warning] IP address '123.249.45.239' could not be resolved: 不知道这样的主机。 
+161022 22:19:55 [Warning] IP address '124.173.113.45' could not be resolved: 不知道这样的主机。 
+161023  0:08:07 [Warning] IP address '113.108.21.16' could not be resolved: 不知道这样的主机。 
+161023  4:15:58 [Warning] IP address '123.57.4.56' could not be resolved: 不知道这样的主机。 
+161023  6:06:03 [Warning] IP address '198.55.103.192' has been resolved to the host name '198.55.103.192.static.quadranet.com', which resembles IPv4-address itself.
+161023  6:22:08 [Warning] IP address '123.249.45.147' could not be resolved: 不知道这样的主机。 
+161023  6:32:16 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023  6:32:23 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023  6:32:28 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023  6:32:33 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023  6:32:42 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023  6:32:46 [Warning] IP address '118.193.228.245' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023 11:34:12 [Warning] IP address '122.144.136.73' could not be resolved: 不知道这样的主机。 
+161023 12:04:34 [Warning] IP address '180.97.81.60' could not be resolved: 不知道这样的主机。 
+161023 15:12:35 [Warning] IP address '115.28.133.252' could not be resolved: 不知道这样的主机。 
+161023 17:23:53 [Warning] IP address '119.10.82.11' could not be resolved: 不知道这样的主机。 
+161023 18:00:03 [Warning] IP address '222.186.51.138' could not be resolved: 不知道这样的主机。 
+161023 18:19:13 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023 18:19:17 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161023 18:22:35 [Warning] IP address '123.56.233.113' could not be resolved: 不知道这样的主机。 
+161023 21:34:44 [Warning] IP address '104.148.26.57' could not be resolved: 不知道这样的主机。 
+161024  0:14:09 [Warning] IP address '119.10.28.202' could not be resolved: 不知道这样的主机。 
+161024  0:38:33 [Warning] IP address '45.119.94.56' could not be resolved: 不知道这样的主机。 
+161024  3:44:07 [Warning] IP address '121.42.195.49' could not be resolved: 不知道这样的主机。 
+161024  4:24:50 [Warning] IP address '119.142.215.214' could not be resolved: 不知道这样的主机。 
+161024  5:44:28 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:44:33 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:44:39 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:44:44 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:44:49 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:44:53 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:00 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:05 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:14 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:19 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:23 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:29 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:35 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:41 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  5:45:46 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  6:31:52 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  6:31:57 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161024  6:40:43 [Warning] IP address '103.213.248.178' could not be resolved: 不知道这样的主机。 
+161024  8:00:48 [Warning] IP address '118.123.119.111' could not be resolved: 不知道这样的主机。 
+161024  9:35:41 [Warning] IP address '183.131.222.36' could not be resolved: 不知道这样的主机。 
+161024 18:01:26 [Warning] IP address '1.93.1.126' could not be resolved: 不知道这样的主机。 
+161024 19:04:34 [Note] Hostname 'unassigned.psychz.net' does not resolve to '23.91.1.62'.
+161024 19:04:34 [Note] Hostname 'unassigned.psychz.net' has the following IP addresses:
+161024 19:04:34 [Note]  - 199.15.112.8
+
+161024 19:40:14 [Warning] IP address '222.186.50.39' could not be resolved: 不知道这样的主机。 
+161024 20:25:38 [Warning] IP address '104.223.180.45' could not be resolved: 不知道这样的主机。 
+161024 21:28:59 [Warning] IP address '222.186.21.202' could not be resolved: 不知道这样的主机。 
+161025  1:48:59 [Warning] IP address '221.194.44.160' could not be resolved: 不知道这样的主机。 
+161025  2:34:56 [Warning] IP address '115.144.238.223' could not be resolved: 不知道这样的主机。 
+161025  7:12:36 [Warning] IP address '104.223.17.95' has been resolved to the host name '104.223.17.95.static.quadranet.com', which resembles IPv4-address itself.
+161025  7:43:45 [Warning] IP address '43.227.98.152' could not be resolved: 不知道这样的主机。 
+161025  9:17:31 [Warning] IP address '121.196.195.160' could not be resolved: 不知道这样的主机。 
+161025  9:31:58 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:08 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:18 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:28 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:38 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:47 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:32:53 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:33:03 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025  9:33:13 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 12:20:45 [Warning] IP address '222.187.222.149' could not be resolved: 不知道这样的主机。 
+161025 15:40:00 [Warning] IP address '180.97.215.158' could not be resolved: 不知道这样的主机。 
+161025 16:20:37 [Warning] IP address '123.249.45.205' could not be resolved: 不知道这样的主机。 
+161025 21:17:23 [Warning] IP address '61.147.247.108' could not be resolved: 不知道这样的主机。 
+161025 22:03:26 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:32 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:37 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:42 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:47 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:52 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:03:57 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:03 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:08 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:14 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:19 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:25 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:30 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:35 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:40 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:46 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:53 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:04:57 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:05:03 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:05:08 [Warning] IP address '112.11.105.28' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161025 22:55:22 [Warning] IP address '125.141.63.2' could not be resolved: 不知道这样的主机。 
+161025 23:10:34 [Warning] IP address '104.223.133.14' could not be resolved: 不知道这样的主机。 
+161026  1:40:45 [Warning] IP address '183.10.130.37' could not be resolved: 不知道这样的主机。 
+161026  1:42:11 [Warning] IP address '121.201.33.243' has been resolved to the host name '121.201.33.243', which resembles IPv4-address itself.
+161026  6:28:03 [Warning] IP address '50.118.255.213' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026  6:28:08 [Warning] IP address '50.118.255.213' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:02:53 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:05 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:10 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:26 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:35 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:42 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:46 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:03:56 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 10:04:02 [Warning] IP address '118.193.238.234' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 11:12:29 [Warning] IP address '123.249.76.58' could not be resolved: 不知道这样的主机。 
+161026 12:20:49 [Warning] IP address '192.161.172.199' has been resolved to the host name '192.161.172.199.static.quadranet.com', which resembles IPv4-address itself.
+161026 13:29:28 [Warning] IP address '120.24.44.109' could not be resolved: 不知道这样的主机。 
+161026 16:39:25 [Warning] IP address '104.223.17.86' has been resolved to the host name '104.223.17.86.static.quadranet.com', which resembles IPv4-address itself.
+161026 19:29:01 [Warning] IP address '27.148.157.53' could not be resolved: 不知道这样的主机。 
+161026 21:05:30 [Warning] IP address '203.189.235.147' could not be resolved: 不知道这样的主机。 
+161026 21:44:20 [Warning] IP address '218.93.211.104' could not be resolved: 不知道这样的主机。 
+161026 22:09:35 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 22:09:45 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161026 23:49:23 [Warning] IP address '103.197.26.228' could not be resolved: 不知道这样的主机。 
+161026 23:51:31 [Warning] IP address '120.234.7.21' could not be resolved: 不知道这样的主机。 
+161027  1:45:02 [Warning] IP address '119.10.70.219' could not be resolved: 不知道这样的主机。 
+161027  2:52:17 [Warning] IP address '123.249.45.137' could not be resolved: 不知道这样的主机。 
+161027  3:43:52 [Warning] IP address '114.55.2.52' could not be resolved: 不知道这样的主机。 
+161027  7:03:31 [Warning] IP address '173.254.236.49' has been resolved to the host name '173.254.236.49.static.quadranet.com', which resembles IPv4-address itself.
+161027  7:09:30 [Warning] IP address '218.2.0.70' could not be resolved: 不知道这样的主机。 
+161027 13:54:30 [Warning] IP address '173.254.236.71' has been resolved to the host name '173.254.236.71.static.quadranet.com', which resembles IPv4-address itself.
+161027 17:54:50 [Note] Hostname 'rissel.structurehospital.com' does not resolve to '142.0.39.133'.
+161027 17:54:50 [Note] Hostname 'rissel.structurehospital.com' has the following IP addresses:
+161027 17:54:50 [Note]  - 104.148.6.216
+
+161027 23:35:32 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:35:46 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:36:01 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:36:14 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:36:29 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:36:47 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:37:00 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:37:17 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:37:28 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:37:40 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:37:52 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:38:08 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:38:22 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:38:34 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:38:48 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:39:06 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:39:18 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:39:29 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:39:40 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:39:55 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:40:07 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:40:19 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:40:37 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:40:53 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:41:08 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:41:20 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:41:32 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:41:47 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161027 23:41:59 [Warning] IP address '116.255.171.189' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  1:35:45 [Warning] IP address '180.97.215.47' could not be resolved: 不知道这样的主机。 
+161028  2:52:18 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:18 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:23 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:29 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:52:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:00 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:14 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:29 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:40 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:53:59 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:04 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:15 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:20 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:25 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:29 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:43 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:48 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:53 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:54:57 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:02 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:11 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:16 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:21 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:25 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:30 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:45 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:55:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:00 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:04 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:13 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:18 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:23 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:27 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:32 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:38 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:52 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:56:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:06 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:15 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:20 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:25 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:30 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:48 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:53 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:57:58 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:02 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:12 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:16 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:21 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:26 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:30 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:35 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:40 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:49 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:54 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:58:58 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:03 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:12 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:17 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:21 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:26 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:31 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:35 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:40 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:49 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  2:59:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:00 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:14 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:25 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:29 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:43 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:48 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:53 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:00:59 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:03 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:08 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:13 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:17 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:22 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:26 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:31 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:36 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:40 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:45 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:54 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:01:59 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:04 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:14 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:29 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:33 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:44 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:48 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:53 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:02:58 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:02 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:12 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:17 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:23 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:27 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:32 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:37 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:51 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:03:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:15 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:28 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:33 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:38 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:52 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:04:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:17 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:21 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:26 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:31 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:36 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:41 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:45 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:05:59 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:04 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:13 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:18 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:23 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:27 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:32 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:36 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:41 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:46 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:50 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:06:55 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:00 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:04 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:09 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:13 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:18 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:23 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:27 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:32 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:36 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:51 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:07:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:15 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:28 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:33 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:38 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:43 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:48 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:53 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:08:57 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:02 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:12 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:17 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:22 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:27 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:32 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:36 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:41 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:51 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:09:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:00 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:14 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:28 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:33 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:38 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:52 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:10:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:05 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:10 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:15 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:19 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:24 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:28 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:33 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:38 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:42 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:47 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:52 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:11:56 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:01 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:07 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:11 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:16 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:21 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:25 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:30 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:34 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:12:39 [Warning] IP address '118.193.241.207' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028  3:31:48 [Warning] IP address '111.179.17.58' could not be resolved: 不知道这样的主机。 
+161028  3:48:40 [Warning] IP address '124.119.61.28' could not be resolved: 不知道这样的主机。 
+161028  8:41:11 [Warning] IP address '119.10.53.77' could not be resolved: 不知道这样的主机。 
+161028  9:29:40 [Warning] IP address '218.94.242.67' could not be resolved: 不知道这样的主机。 
+161028  9:29:41 [Warning] IP address '218.94.242.67' could not be resolved: 不知道这样的主机。 
+161028  9:38:16 [Warning] IP address '123.57.211.46' could not be resolved: 不知道这样的主机。 
+161028 10:54:02 [Warning] IP address '61.160.210.34' could not be resolved: 不知道这样的主机。 
+161028 12:55:44 [Warning] IP address '123.249.45.140' could not be resolved: 不知道这样的主机。 
+161028 15:24:35 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:24:45 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:24:50 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:24:54 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:24:59 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:04 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:10 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:14 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:20 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:28 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:25:33 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161028 15:33:51 [Warning] IP address '121.61.84.16' could not be resolved: 不知道这样的主机。 
+161028 20:16:12 [Warning] IP address '103.56.112.75' could not be resolved: 不知道这样的主机。 
+161028 22:28:03 [Warning] IP address '23.251.55.51' could not be resolved: 不知道这样的主机。 
+161029  0:42:45 [Warning] IP address '180.97.215.3' could not be resolved: 不知道这样的主机。 
+161029  0:53:08 [Warning] IP address '104.223.180.22' could not be resolved: 不知道这样的主机。 
+161029  1:56:52 [Warning] IP address '180.97.215.67' could not be resolved: 不知道这样的主机。 
+161029  5:18:31 [Warning] IP address '123.249.45.135' could not be resolved: 不知道这样的主机。 
+161029  8:07:23 [Warning] IP address '123.249.45.227' could not be resolved: 不知道这样的主机。 
+161029  8:59:20 [Warning] IP address '117.21.173.9' could not be resolved: 不知道这样的主机。 
+161029  9:20:47 [Warning] IP address '115.231.218.98' could not be resolved: 不知道这样的主机。 
+161029 11:35:15 [Warning] IP address '220.176.95.38' could not be resolved: 不知道这样的主机。 
+161029 11:44:44 [Warning] IP address '120.25.103.140' could not be resolved: 不知道这样的主机。 
+161029 16:13:13 [Warning] IP address '23.247.87.17' could not be resolved: 不知道这样的主机。 
+161029 19:21:16 [Warning] IP address '104.223.180.17' could not be resolved: 不知道这样的主机。 
+161029 22:12:09 [Warning] IP address '115.144.238.240' could not be resolved: 不知道这样的主机。 
+161029 23:14:58 [Warning] IP address '219.159.80.29' could not be resolved: 不知道这样的主机。 
+161030  2:11:40 [Warning] IP address '104.223.133.26' could not be resolved: 不知道这样的主机。 
+161030  4:09:34 [Warning] IP address '104.223.133.5' could not be resolved: 不知道这样的主机。 
+161030  6:46:00 [Warning] IP address '125.77.197.235' could not be resolved: 不知道这样的主机。 
+161030  7:08:01 [Warning] IP address '114.215.239.201' could not be resolved: 不知道这样的主机。 
+161030  9:29:00 [Warning] IP address '121.61.125.103' could not be resolved: 不知道这样的主机。 
+161030  9:43:08 [Warning] IP address '112.74.80.58' could not be resolved: 不知道这样的主机。 
+161030 10:42:32 [Warning] IP address '222.177.231.226' could not be resolved: 不知道这样的主机。 
+161030 10:42:37 [Warning] IP address '222.177.231.248' could not be resolved: 不知道这样的主机。 
+161030 10:42:42 [Warning] IP address '222.177.231.237' could not be resolved: 不知道这样的主机。 
+161030 14:39:22 [Warning] IP address '117.71.49.110' could not be resolved: 不知道这样的主机。 
+161030 21:56:25 [Warning] IP address '58.64.210.230' could not be resolved: 不知道这样的主机。 
+161031  3:54:26 [Warning] IP address '104.223.133.45' could not be resolved: 不知道这样的主机。 
+161031  4:52:20 [Warning] IP address '183.131.85.41' could not be resolved: 不知道这样的主机。 
+161031  8:23:08 [Warning] IP address '124.173.116.150' could not be resolved: 不知道这样的主机。 
+161031 10:22:06 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 10:22:16 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 10:22:25 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 10:22:35 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 10:22:45 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 11:52:10 [Note] Hostname 'puud.responsibilitymonkey.com' does not resolve to '142.0.39.144'.
+161031 11:52:10 [Note] Hostname 'puud.responsibilitymonkey.com' has the following IP addresses:
+161031 11:52:10 [Note]  - 104.148.6.203
+
+161031 12:35:59 [Warning] IP address '220.177.198.59' could not be resolved: 不知道这样的主机。 
+161031 16:28:58 [Warning] IP address '222.197.91.41' could not be resolved: 不知道这样的主机。 
+161031 17:27:07 [Warning] IP address '103.228.129.164' could not be resolved: 不知道这样的主机。 
+161031 18:24:51 [Warning] IP address '222.174.5.20' could not be resolved: 不知道这样的主机。 
+161031 19:35:22 [Warning] IP address '118.184.27.73' could not be resolved: 不知道这样的主机。 
+161031 20:26:42 [Warning] IP address '180.97.215.25' could not be resolved: 不知道这样的主机。 
+161031 20:56:31 [Warning] IP address '221.194.44.225' could not be resolved: 不知道这样的主机。 
+161031 22:17:03 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:07 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:17 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:33 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:42 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:47 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:17:56 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:06 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:15 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:25 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:34 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:44 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:18:56 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:19:07 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:19:16 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:19:21 [Warning] IP address '123.249.0.134' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:05 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:11 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:16 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:21 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:27 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:32 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:37 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:42 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 22:45:47 [Warning] IP address '211.98.156.104' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 23:02:17 [Warning] IP address '116.255.238.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161031 23:30:30 [Warning] IP address '222.186.21.203' could not be resolved: 不知道这样的主机。 
+161101  1:44:17 [Warning] IP address '104.223.180.15' could not be resolved: 不知道这样的主机。 
+161101  1:45:00 [Warning] IP address '223.4.122.4' could not be resolved: 不知道这样的主机。 
+161101  2:21:18 [Warning] IP address '115.231.217.100' could not be resolved: 不知道这样的主机。 
+161101  4:56:42 [Warning] IP address '58.56.192.4' could not be resolved: 不知道这样的主机。 
+161101  5:49:28 [Warning] IP address '221.229.173.198' could not be resolved: 不知道这样的主机。 
+161101  7:11:20 [Warning] IP address '61.160.210.32' could not be resolved: 不知道这样的主机。 
+161101  7:22:19 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:24 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:29 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:34 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:39 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:44 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:48 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:53 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:22:58 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:03 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:08 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:13 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:17 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:22 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:27 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:32 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:37 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:41 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:46 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:51 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:23:56 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:01 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:06 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:10 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:15 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:20 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:25 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:30 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:34 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:39 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:44 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:49 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:54 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:24:59 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:04 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:08 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:13 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:18 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:23 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:28 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:32 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:37 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:42 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:47 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:52 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:25:56 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:26:01 [Warning] IP address '60.194.100.236' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101  7:47:51 [Warning] IP address '61.160.195.61' could not be resolved: 不知道这样的主机。 
+161101 10:05:19 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 10:05:25 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 10:05:29 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 10:05:34 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 10:05:43 [Warning] IP address '123.249.27.40' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 12:19:45 [Warning] IP address '58.221.42.86' could not be resolved: 不知道这样的主机。 
+161101 13:06:20 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:06:25 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:06:33 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:06:38 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:06:48 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:06:56 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:04 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:11 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:21 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:26 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:34 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:40 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:45 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 13:07:49 [Warning] IP address '123.249.27.244' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 16:59:58 [Warning] IP address '121.199.52.89' could not be resolved: 不知道这样的主机。 
+161101 20:29:08 [Warning] IP address '104.223.133.8' could not be resolved: 不知道这样的主机。 
+161101 22:44:38 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:44:48 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:44:58 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:09 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:19 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:29 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:39 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:48 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:45:58 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:46:08 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:46:18 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:46:31 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:46:41 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:46:51 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:01 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:14 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:24 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:34 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:44 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:47:54 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:04 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:14 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:24 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:34 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:44 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:48:54 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:04 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:13 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:23 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:33 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:43 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:49:54 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:04 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:14 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:24 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:34 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:44 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:50:54 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:04 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:14 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:23 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:33 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:43 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:51:53 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:03 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:13 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:23 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:33 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:43 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:52:53 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:03 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:16 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:29 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:39 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:49 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:53:59 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:09 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:19 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:29 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:39 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:49 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:54:59 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:55:10 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:55:20 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:55:30 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:55:39 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:55:51 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:56:01 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:56:11 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:56:21 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161101 22:56:31 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  2:23:31 [Warning] IP address '221.229.173.98' could not be resolved: 不知道这样的主机。 
+161102  4:58:26 [Warning] IP address '123.249.45.234' could not be resolved: 不知道这样的主机。 
+161102  5:49:12 [Warning] IP address '222.186.34.118' could not be resolved: 不知道这样的主机。 
+161102  9:41:00 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:06 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:11 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:21 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:31 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:40 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:41:50 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:00 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:09 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:19 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:28 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:35 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:41 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:45 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:42:55 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102  9:43:04 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:19:43 [Warning] IP address '183.131.80.142' could not be resolved: 不知道这样的主机。 
+161102 15:28:48 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:28:55 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:03 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:10 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:20 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:30 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:39 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:49 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:29:59 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:04 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:09 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:19 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:24 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:30 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:40 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:50 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:30:59 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:31:09 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:31:19 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:31:29 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:31:39 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 15:31:49 [Warning] IP address '123.249.27.42' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161102 17:26:08 [Warning] IP address '104.223.133.41' could not be resolved: 不知道这样的主机。 
+161102 18:42:45 [Note] Hostname 'unassigned.quadranet.com' does not resolve to '155.94.142.65'.
+161102 18:42:45 [Note] Hostname 'unassigned.quadranet.com' has the following IP addresses:
+161102 18:42:45 [Note]  - 127.0.0.1
+
+161102 19:53:35 [Warning] IP address '104.223.17.69' has been resolved to the host name '104.223.17.69.static.quadranet.com', which resembles IPv4-address itself.
+161102 20:04:52 [Warning] IP address '124.173.115.143' could not be resolved: 不知道这样的主机。 
+161102 20:38:19 [Warning] IP address '139.201.126.231' could not be resolved: 不知道这样的主机。 
+161102 22:11:59 [Warning] IP address '60.169.74.78' could not be resolved: 不知道这样的主机。 
+161103  1:09:26 [Warning] IP address '116.255.213.238' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161103  1:09:44 [Warning] IP address '116.255.213.238' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161103  1:09:53 [Warning] IP address '116.255.213.238' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161103  1:09:58 [Warning] IP address '116.255.213.238' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161103  1:10:04 [Warning] IP address '116.255.213.238' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161103  1:39:36 [Note] Hostname 'unassigned.quadranet.com' does not resolve to '155.94.142.90'.
+161103  1:39:36 [Note] Hostname 'unassigned.quadranet.com' has the following IP addresses:
+161103  1:39:36 [Note]  - 127.0.0.1
+
+161103  1:54:04 [Warning] IP address '222.186.58.167' could not be resolved: 不知道这样的主机。 
+161103  2:42:54 [Warning] IP address '123.178.199.182' could not be resolved: 不知道这样的主机。 
+161103  8:00:57 [Note] Hostname 'L136.datasoft.ws' does not resolve to '209.126.65.136'.
+161103  8:00:57 [Note] Hostname 'L136.datasoft.ws' has the following IP addresses:
+161103  8:00:57 [Note]  - 209.126.74.252
+
+161103  9:54:31 [Warning] IP address '202.97.251.148' could not be resolved: 不知道这样的主机。 
+161103 11:29:16 [Warning] IP address '139.201.126.207' could not be resolved: 不知道这样的主机。 
+161103 13:25:44 [Warning] IP address '103.38.42.146' could not be resolved: 不知道这样的主机。 
+161103 21:22:44 [Warning] IP address '180.97.215.89' could not be resolved: 不知道这样的主机。 
+161103 22:47:46 [Warning] IP address '123.249.45.177' could not be resolved: 不知道这样的主机。 
+161103 23:12:58 [Warning] IP address '103.248.223.228' could not be resolved: 不知道这样的主机。 
+161104  1:51:27 [Warning] IP address '222.186.51.190' could not be resolved: 不知道这样的主机。 
+161104  2:01:24 [Warning] IP address '198.55.114.133' has been resolved to the host name '198.55.114.133.static.quadranet.com', which resembles IPv4-address itself.
+161104  2:29:29 [Warning] IP address '183.111.128.38' could not be resolved: 不知道这样的主机。 
+161104  4:44:18 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:24 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:28 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:35 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:42 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:48 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:54 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:44:59 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:03 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:09 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:15 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:19 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:24 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:29 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:34 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:40 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  4:45:45 [Warning] IP address '123.249.24.230' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161104  6:08:59 [Warning] IP address '104.223.133.22' could not be resolved: 不知道这样的主机。 
+161104 11:41:52 [Warning] IP address '222.186.58.134' could not be resolved: 不知道这样的主机。 
+161104 15:23:49 [Warning] IP address '222.186.21.123' could not be resolved: 不知道这样的主机。 
+161104 18:33:03 [Warning] IP address '103.213.248.31' could not be resolved: 不知道这样的主机。 
+161104 21:50:33 [Warning] IP address '196.52.43.63' could not be resolved: 不知道这样的主机。 
+161105  0:44:34 [Warning] IP address '104.148.26.46' could not be resolved: 不知道这样的主机。 
+161105  1:13:09 [Warning] IP address '222.186.42.168' could not be resolved: 不知道这样的主机。 
+161105  3:35:38 [Note] Hostname 'shelley.1jpa.com' does not resolve to '198.16.43.45'.
+161105  3:35:38 [Note] Hostname 'shelley.1jpa.com' has the following IP addresses:
+161105  3:35:38 [Note]  - 172.247.5.45
+
+161105  5:54:56 [Warning] IP address '118.145.13.253' could not be resolved: 不知道这样的主机。 
+161105  6:25:53 [Warning] IP address '104.223.133.111' could not be resolved: 不知道这样的主机。 
+161105  6:51:58 [Warning] IP address '58.221.49.39' could not be resolved: 不知道这样的主机。 
+161105  7:42:54 [Warning] IP address '23.247.65.50' could not be resolved: 不知道这样的主机。 
+161105 13:28:12 [Warning] IP address '123.56.65.139' could not be resolved: 不知道这样的主机。 
+161105 17:58:09 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161105 18:05:01 [Warning] IP address '173.254.236.16' has been resolved to the host name '173.254.236.16.static.quadranet.com', which resembles IPv4-address itself.
+161105 20:55:26 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:55:33 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:55:38 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:55:45 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:55:53 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:55:58 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:04 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:11 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:16 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:22 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:29 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:34 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:41 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:47 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:52 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:56:57 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:03 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:08 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:16 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:21 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:27 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:34 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:40 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:46 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:52 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:57:57 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:04 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:09 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:14 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:19 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:26 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:31 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:37 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:42 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:49 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:58:55 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:00 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:05 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:12 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:18 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:25 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:31 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:38 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:45 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:51 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 20:59:56 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 21:00:04 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 21:00:10 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 21:00:15 [Warning] IP address '122.114.89.33' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161105 22:36:08 [Warning] IP address '123.249.42.102' could not be resolved: 不知道这样的主机。 
+161106  3:37:42 [Warning] IP address '222.186.56.210' could not be resolved: 不知道这样的主机。 
+161106  5:31:48 [Warning] IP address '221.229.173.207' could not be resolved: 不知道这样的主机。 
+161106  8:26:40 [Warning] IP address '119.10.46.71' could not be resolved: 不知道这样的主机。 
+161106  9:12:52 [Warning] IP address '123.249.42.57' could not be resolved: 不知道这样的主机。 
+161106  9:53:37 [Warning] IP address '121.42.210.61' could not be resolved: 不知道这样的主机。 
+161106 14:08:31 [Warning] IP address '124.172.158.161' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161106 14:08:36 [Warning] IP address '124.172.158.161' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161106 19:33:00 [Warning] IP address '104.223.133.103' could not be resolved: 不知道这样的主机。 
+161106 22:47:55 [Warning] IP address '115.28.186.157' could not be resolved: 不知道这样的主机。 
+161107  1:17:23 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:29 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:34 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:40 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:47 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:52 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:17:59 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:04 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:10 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:16 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:22 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:28 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:34 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:40 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:46 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:51 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:18:58 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:03 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:08 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:14 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:20 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:27 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:33 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:38 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:44 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:50 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:19:56 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:20:02 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:20:08 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:20:14 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:20:21 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:20:26 [Warning] IP address '122.10.88.138' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:22:58 [Note] Hostname 'border.census.shodan.io' does not resolve to '198.20.87.98'.
+161107  1:22:58 [Note] Hostname 'border.census.shodan.io' has the following IP addresses:
+161107  1:22:58 [Note]  - 216.117.2.180
+
+161107  1:32:04 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:09 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:16 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:20 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:25 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:30 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:35 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:40 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:44 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:49 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:54 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:32:59 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:33:04 [Warning] IP address '122.114.133.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  1:39:33 [Warning] IP address '93.174.95.106' could not be resolved: 不知道这样的主机。 
+161107  3:51:24 [Warning] IP address '123.57.4.56' could not be resolved: 不知道这样的主机。 
+161107  3:57:34 [Warning] IP address '103.242.1.79' could not be resolved: 不知道这样的主机。 
+161107  4:00:44 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:00:48 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:00:53 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:00:58 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:03 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:08 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:13 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:18 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:22 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:27 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:32 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:01:37 [Warning] IP address '122.114.59.170' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:59:42 [Warning] IP address '123.249.0.239' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:59:50 [Warning] IP address '123.249.0.239' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  4:59:50 [Warning] IP address '123.249.0.239' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  5:00:02 [Warning] IP address '123.249.0.239' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:08 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:09 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:14 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:18 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:23 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:28 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:32 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:37 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  6:02:42 [Warning] IP address '120.210.207.39' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161107  7:42:23 [Warning] IP address '115.29.197.215' could not be resolved: 不知道这样的主机。 
+161107 13:49:39 [Warning] IP address '123.249.42.93' could not be resolved: 不知道这样的主机。 
+161107 15:44:23 [Warning] IP address '104.223.180.52' could not be resolved: 不知道这样的主机。 
+161107 16:58:42 [Warning] IP address '120.76.238.44' could not be resolved: 不知道这样的主机。 
+161107 18:16:23 [Warning] IP address '202.96.85.139' could not be resolved: 不知道这样的主机。 
+161107 19:02:13 [Warning] IP address '59.53.91.203' could not be resolved: 不知道这样的主机。 
+161107 19:04:13 [Warning] IP address '61.174.49.42' has been resolved to the host name '42.49.174.61.dial.wz.zj.dynamic.163data.com.cn', which resembles IPv4-address itself.
+161107 19:25:46 [Warning] IP address '123.249.42.95' could not be resolved: 不知道这样的主机。 
+161107 19:40:31 [Warning] IP address '103.204.179.98' could not be resolved: 不知道这样的主机。 
+161108  2:51:03 [Warning] IP address '180.97.215.17' could not be resolved: 不知道这样的主机。 
+161108  4:25:10 [Warning] IP address '139.201.126.235' could not be resolved: 不知道这样的主机。 
+161108  6:09:41 [Warning] IP address '198.55.103.12' has been resolved to the host name '198.55.103.12.static.quadranet.com', which resembles IPv4-address itself.
+161108 13:08:54 [Warning] IP address '118.184.13.245' could not be resolved: 不知道这样的主机。 
+161108 13:24:00 [Warning] IP address '180.97.215.44' could not be resolved: 不知道这样的主机。 
+161108 14:58:28 [Warning] IP address '103.239.73.108' could not be resolved: 不知道这样的主机。 
+161108 16:09:26 [Warning] IP address '173.254.236.60' has been resolved to the host name '173.254.236.60.static.quadranet.com', which resembles IPv4-address itself.
+161108 16:40:59 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:41:09 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:41:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:28 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:36 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:44 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:49 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:52 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:48:57 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:00 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:08 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:14 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:16 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:22 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:30 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:38 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:41 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:49:53 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:01 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:12 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:21 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:37 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:50:54 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:02 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:10 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:21 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:37 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:51:54 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:52:02 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:52:10 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:52:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:52:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 16:52:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161108 18:06:29 [Warning] IP address '222.186.10.82' could not be resolved: 不知道这样的主机。 
+161108 21:23:49 [Warning] IP address '120.76.193.60' could not be resolved: 不知道这样的主机。 
+161108 23:08:45 [Warning] IP address '61.160.210.46' could not be resolved: 不知道这样的主机。 
+161109  0:28:35 [Note] Hostname 'edd.newchancenow.com' does not resolve to '208.115.125.123'.
+161109  0:28:35 [Note] Hostname 'edd.newchancenow.com' has the following IP addresses:
+161109  0:28:35 [Note]  - 216.22.21.142
+
+161109  0:42:35 [Warning] IP address '221.229.173.149' could not be resolved: 不知道这样的主机。 
+161109  7:53:22 [Warning] IP address '111.72.252.91' could not be resolved: 不知道这样的主机。 
+161109  8:07:14 [Warning] IP address '222.174.5.30' could not be resolved: 不知道这样的主机。 
+161109  9:41:03 [Warning] IP address '198.55.114.240' has been resolved to the host name '198.55.114.240.static.quadranet.com', which resembles IPv4-address itself.
+161109 11:35:07 [Warning] IP address '222.186.58.252' could not be resolved: 不知道这样的主机。 
+161109 11:37:05 [Warning] IP address '101.227.68.50' could not be resolved: 不知道这样的主机。 
+161109 15:37:34 [Warning] IP address '115.231.222.88' could not be resolved: 不知道这样的主机。 
+161109 19:06:01 [Warning] IP address '183.60.110.44' could not be resolved: 不知道这样的主机。 
+161109 23:10:23 [Warning] IP address '221.229.173.69' could not be resolved: 不知道这样的主机。 
+161110  2:15:50 [Warning] IP address '204.13.67.157' could not be resolved: 不知道这样的主机。 
+161110  2:38:55 [Warning] IP address '27.151.29.225' could not be resolved: 不知道这样的主机。 
+161110  8:45:15 [Warning] IP address '118.193.176.14' could not be resolved: 不知道这样的主机。 
+161110 18:12:28 [Warning] IP address '103.204.177.51' could not be resolved: 不知道这样的主机。 
+161110 22:53:43 [Warning] IP address '218.6.56.154' could not be resolved: 不知道这样的主机。 
+161111  1:09:11 [Warning] IP address '222.186.57.62' could not be resolved: 不知道这样的主机。 
+161111  3:15:06 [Warning] IP address '111.121.193.254' could not be resolved: 不知道这样的主机。 
+161111  3:31:17 [Warning] IP address '123.56.104.11' could not be resolved: 不知道这样的主机。 
+161111  3:42:28 [Warning] IP address '60.169.81.131' could not be resolved: 不知道这样的主机。 
+161111  3:56:31 [Warning] IP address '202.96.85.71' could not be resolved: 不知道这样的主机。 
+161111  7:06:03 [Note] Hostname 'no-reverse-dns-configured.com' does not resolve to '93.174.93.130'.
+161111  7:06:03 [Note] Hostname 'no-reverse-dns-configured.com' has the following IP addresses:
+161111  7:06:03 [Note]  - 103.224.212.222
+
+161111  9:21:07 [Warning] IP address '104.148.44.214' could not be resolved: 不知道这样的主机。 
+161111 10:07:59 [Warning] IP address '118.193.164.141' could not be resolved: 不知道这样的主机。 
+161111 13:56:27 [Warning] IP address '220.181.159.73' could not be resolved: 不知道这样的主机。 
+161111 16:25:28 [Warning] IP address '122.114.90.187' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161111 20:43:47 [Warning] IP address '58.221.47.110' could not be resolved: 不知道这样的主机。 
+161111 21:23:49 [Note] Plugin 'FEDERATED' is disabled.
+161111 21:23:49 InnoDB: The InnoDB memory heap is disabled
+161111 21:23:49 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161111 21:23:49 InnoDB: Compressed tables use zlib 1.2.3
+161111 21:23:49 InnoDB: Initializing buffer pool, size = 446.0M
+161111 21:23:49 InnoDB: Completed initialization of buffer pool
+161111 21:23:49 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161111 21:23:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161111 21:23:49  InnoDB: Waiting for the background threads to start
+161111 21:23:50 InnoDB: 1.1.8 started; log sequence number 6078619161
+161111 21:23:50 [Note] Event Scheduler: Loaded 3 events
+161111 21:23:50 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161111 21:41:13 [Warning] IP address '115.28.21.91' could not be resolved: 不知道这样的主机。 
+161111 21:47:23 [ERROR] Got error 127 when reading table '.\gdb0101\pc'
+161111 21:47:37 [ERROR] Got error 127 when reading table '.\gdb0101\pc'
+161111 21:49:27 [ERROR] Got an error from thread_id=29, ..\..\..\mysql-5.5.20\storage\myisam\ha_myisam.cc:870
+161111 21:49:27 [ERROR] MySQL thread id 29, OS thread handle 0xcdc, query id 4506 localhost 127.0.0.1 root Checking table
+CHECK TABLE `pc` EXTENDED
+161111 21:49:27 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:49:38 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:49:50 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:49:55 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:49:57 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:01 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:03 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:08 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:10 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:15 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:18 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:20 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:26 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:35 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:38 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:50:49 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:00 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:12 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:22 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:23 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:24 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:24 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:24 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:25 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:28 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:36 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:42 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:48 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:51:59 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:10 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:10 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:21 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:32 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:32 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:32 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:43 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:43 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:46 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:49 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:49 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:54 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:54 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:57 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:52:58 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:05 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:05 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:08 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:17 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:18 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:19 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:22 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:23 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:26 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:26 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:26 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:26 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:30 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:34 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Table '.\gdb0101\pc' is marked as crashed and should be repaired
+161111 21:53:40 [Note] Found 18416 of 18417 rows when repairing '.\gdb0101\pc'
+161111 21:54:21 [ERROR] Got an error from thread_id=36, ..\..\..\mysql-5.5.20\storage\myisam\ha_myisam.cc:870
+161111 21:54:21 [ERROR] MySQL thread id 36, OS thread handle 0xa34, query id 4794 localhost 127.0.0.1 root Checking table
+CHECK TABLE `box`, `box_copy`, `cash_inventory`, `char_name_change_list`, `couple_profile`, `delcharlog`, `dungeon`, `game_fuben`, `game_fuben2`, `guildinfo`, `guildstore`, `guildwarlog`, `hallofhonor`, `inventory`, `mail`, `msgfriend`, `party_list`, `pc`, `quest`, `rebirth`, `rebirth_default`, `renamecharlog`, `servermsg`, `skill`, `store`, `store_1`, `store_2`, `store_3`, `test_table`, `union_list`, `user_id`
+161111 21:55:51 [Note] Retrying repair of: '.\gdb0101\store' with keycache
+161111 21:55:51 [Note] Found 5860 of 5861 rows when repairing '.\gdb0101\store'
+161111 22:08:54 [Warning] IP address '47.89.51.9' could not be resolved: 不知道这样的主机。 
+161111 23:15:30 [Warning] IP address '222.186.51.138' could not be resolved: 不知道这样的主机。 
+161112  1:53:57 [Warning] IP address '104.148.44.214' could not be resolved: 不知道这样的主机。 
+161112  3:35:26 [Warning] IP address '58.220.16.96' could not be resolved: 不知道这样的主机。 
+161112  5:42:54 [Warning] IP address '222.186.51.190' could not be resolved: 不知道这样的主机。 
+161112  6:04:14 [Warning] IP address '104.223.17.95' has been resolved to the host name '104.223.17.95.static.quadranet.com', which resembles IPv4-address itself.
+161112  6:22:41 [Warning] IP address '168.1.128.35' has been resolved to the host name '23.80.01a8.ip4.static.sl-reverse.com', which resembles IPv4-address itself.
+161112  6:34:09 [Warning] IP address '113.108.21.16' could not be resolved: 不知道这样的主机。 
+161112  9:49:30 [Warning] IP address '115.231.222.116' could not be resolved: 不知道这样的主机。 
+161112 10:21:02 [Warning] IP address '115.153.13.161' could not be resolved: 不知道这样的主机。 
+161112 10:31:53 [Warning] IP address '104.148.25.9' could not be resolved: 不知道这样的主机。 
+161112 12:55:41 [Warning] IP address '60.169.78.50' could not be resolved: 不知道这样的主机。 
+161112 13:20:26 [Warning] IP address '221.229.173.69' could not be resolved: 不知道这样的主机。 
+161112 13:53:32 [Warning] IP address '121.22.127.101' could not be resolved: 不知道这样的主机。 
+161112 17:19:25 [Warning] IP address '139.201.126.207' could not be resolved: 不知道这样的主机。 
+161112 17:53:43 [Warning] IP address '123.249.45.206' could not be resolved: 不知道这样的主机。 
+161112 18:12:49 [Warning] IP address '221.194.44.158' could not be resolved: 不知道这样的主机。 
+161112 18:30:46 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:30:53 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:30:58 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:31:07 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:31:13 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:31:18 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:31:25 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 18:31:30 [Warning] IP address '111.43.152.176' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161112 19:42:05 [Warning] IP address '121.42.195.49' could not be resolved: 不知道这样的主机。 
+161112 20:15:38 [Warning] IP address '173.254.236.60' has been resolved to the host name '173.254.236.60.static.quadranet.com', which resembles IPv4-address itself.
+161112 20:57:06 [Warning] IP address '121.18.231.85' could not be resolved: 不知道这样的主机。 
+161112 21:26:14 [Warning] IP address '198.55.114.240' has been resolved to the host name '198.55.114.240.static.quadranet.com', which resembles IPv4-address itself.
+161112 21:32:06 [Warning] IP address '222.186.31.169' could not be resolved: 不知道这样的主机。 
+161112 22:34:54 [Warning] IP address '58.56.192.4' could not be resolved: 不知道这样的主机。 
+161112 23:46:07 [Warning] IP address '121.14.17.195' could not be resolved: 不知道这样的主机。 
+161112 23:59:12 [Warning] IP address '112.74.206.117' could not be resolved: 不知道这样的主机。 
+161113  0:20:02 [Warning] IP address '118.193.164.141' could not be resolved: 不知道这样的主机。 
+161113  0:40:24 [Warning] IP address '125.141.63.2' could not be resolved: 不知道这样的主机。 
+161113  4:22:23 [Warning] IP address '118.122.90.2' could not be resolved: 不知道这样的主机。 
+161113  4:44:11 [Warning] IP address '118.178.122.83' could not be resolved: 不知道这样的主机。 
+161113  5:38:46 [Warning] IP address '221.194.44.160' could not be resolved: 不知道这样的主机。 
+161113 10:00:53 [Warning] IP address '123.56.65.139' could not be resolved: 不知道这样的主机。 
+161113 11:24:24 [Warning] IP address '192.161.172.199' has been resolved to the host name '192.161.172.199.static.quadranet.com', which resembles IPv4-address itself.
+161113 12:09:10 [Warning] IP address '101.227.68.50' could not be resolved: 不知道这样的主机。 
+161113 14:05:35 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:05:42 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:05:50 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:05:55 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:00 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:08 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:14 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:21 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:31 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:36 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:41 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:06:51 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:27 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:37 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:48 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:53 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:08:58 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:03 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:07 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:13 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:28 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:39 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:09:45 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:36 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:41 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:47 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:16:52 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:00 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:08 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:14 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:22 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:28 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:37 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:17:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:11 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:17 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:25 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:30 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:38 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:18:54 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:19:02 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:19:07 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:19:16 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:19:21 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:19:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:09 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:14 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:21 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:38 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:47 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:53 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:20:58 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:21:03 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:21:08 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:21:16 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:21:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:21:30 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:38 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:49 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:22:55 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:01 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:07 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:13 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:27 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:35 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:23:59 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:04 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:12 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:27 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:35 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:40 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:46 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:24:54 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:25:00 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:25:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:25:12 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:25:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:26:06 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:26:12 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:31 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:36 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:44 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:52 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:28:57 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:13 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:25 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:32 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:39 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:47 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:52 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:29:57 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:11 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:11 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:16 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:24 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:29 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:30 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:42 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:51 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:30:58 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:06 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:12 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:20 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:25 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:31 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:37 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:39 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:47 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:31:55 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:32:02 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:32:34 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:14 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:19 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:27 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:35 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:42 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:50 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:51 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:57 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:33:58 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:05 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:13 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:13 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:18 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:23 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:26 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:31 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:35 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:43 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:48 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:34:56 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:35:02 [Warning] IP address '182.18.8.10' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161113 14:46:27 [Warning] IP address '58.221.65.36' could not be resolved: 不知道这样的主机。 
+161113 16:35:34 [Warning] IP address '115.153.11.231' could not be resolved: 不知道这样的主机。 
+161113 16:43:17 [Warning] IP address '222.177.231.248' could not be resolved: 不知道这样的主机。 
+161113 16:43:22 [Warning] IP address '222.177.231.226' could not be resolved: 不知道这样的主机。 
+161113 16:43:27 [Warning] IP address '222.177.231.237' could not be resolved: 不知道这样的主机。 
+161113 17:39:06 [Note] Hostname 'hkhdc.laws.ms' does not resolve to '103.39.109.16'.
+161113 17:39:06 [Note] Hostname 'hkhdc.laws.ms' has the following IP addresses:
+161113 17:39:06 [Note]  - 123.108.108.3
+
+161113 18:07:03 [Warning] IP address '123.249.45.211' could not be resolved: 不知道这样的主机。 
+161113 18:14:55 [Warning] IP address '120.27.40.133' could not be resolved: 不知道这样的主机。 
+161113 18:48:10 [Warning] IP address '119.1.109.20' could not be resolved: 不知道这样的主机。 
+161113 20:22:37 [Warning] IP address '121.42.210.61' could not be resolved: 不知道这样的主机。 
+161113 20:40:12 [Warning] IP address '222.186.34.76' could not be resolved: 不知道这样的主机。 
+161113 23:25:46 [Warning] IP address '111.73.46.227' could not be resolved: 不知道这样的主机。 
+161114  0:14:45 [Warning] IP address '203.189.234.18' could not be resolved: 不知道这样的主机。 
+161114  0:45:54 [Warning] IP address '61.153.51.242' could not be resolved: 不知道这样的主机。 
+161114  1:02:54 [Warning] IP address '103.204.179.98' could not be resolved: 不知道这样的主机。 
+161114  1:49:28 [Warning] IP address '123.249.45.234' could not be resolved: 不知道这样的主机。 
+161114  6:54:24 [Warning] IP address '222.186.34.81' could not be resolved: 不知道这样的主机。 
+161114 10:07:16 [Warning] IP address '139.201.126.235' could not be resolved: 不知道这样的主机。 
+161114 11:14:25 [Warning] IP address '222.186.34.31' could not be resolved: 不知道这样的主机。 
+161114 11:57:59 [Warning] IP address '121.199.70.200' could not be resolved: 不知道这样的主机。 
+161114 14:31:05 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:09 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:15 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:20 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:24 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:29 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:34 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 14:31:38 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:42:54 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:02 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:08 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:15 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:21 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:28 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:36 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:42 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:51 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:43:58 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:04 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:12 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:20 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:25 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:30 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 15:44:38 [Warning] IP address '116.255.196.65' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 18:48:15 [Warning] IP address '50.117.47.108' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 18:48:20 [Warning] IP address '50.117.47.108' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 18:48:25 [Warning] IP address '50.117.47.108' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161114 20:27:18 [Warning] IP address '222.186.21.171' could not be resolved: 不知道这样的主机。 
+161115  0:08:39 [Warning] IP address '103.205.241.114' could not be resolved: 不知道这样的主机。 
+161115  1:10:50 [Warning] IP address '118.192.138.168' could not be resolved: 不知道这样的主机。 
+161115  2:47:18 [Warning] IP address '123.249.42.102' could not be resolved: 不知道这样的主机。 
+161115  3:48:29 [Warning] IP address '123.249.45.205' could not be resolved: 不知道这样的主机。 
+161115  4:09:38 [Warning] IP address '58.42.239.79' could not be resolved: 不知道这样的主机。 
+161115  4:37:06 [Warning] IP address '111.121.193.254' could not be resolved: 不知道这样的主机。 
+161115  5:16:28 [Warning] IP address '123.249.42.93' could not be resolved: 不知道这样的主机。 
+161115  5:56:33 [Warning] IP address '125.67.67.62' could not be resolved: 不知道这样的主机。 
+161115  6:28:29 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:33 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:38 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:43 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:47 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:52 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  6:28:57 [Warning] IP address '120.77.49.160' could not be resolved: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。 
+161115  8:45:37 [Warning] IP address '123.249.79.231' could not be resolved: 不知道这样的主机。 
+161115 10:07:05 [Warning] IP address '218.6.70.150' could not be resolved: 不知道这样的主机。 
+161115 10:38:12 [Warning] IP address '122.144.136.73' could not be resolved: 不知道这样的主机。 
+161115 12:36:16 [Warning] IP address '123.249.45.197' could not be resolved: 不知道这样的主机。 
+161115 17:18:46 [Warning] IP address '180.97.215.30' could not be resolved: 不知道这样的主机。 
+161115 18:30:42 [Warning] IP address '173.254.236.119' has been resolved to the host name '173.254.236.119.static.quadranet.com', which resembles IPv4-address itself.
+161115 22:39:51 [Warning] IP address '180.97.215.50' could not be resolved: 不知道这样的主机。 
+161116 11:36:18 [Note] Plugin 'FEDERATED' is disabled.
+161116 11:36:18 InnoDB: The InnoDB memory heap is disabled
+161116 11:36:18 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161116 11:36:18 InnoDB: Compressed tables use zlib 1.2.3
+161116 11:36:18 InnoDB: Initializing buffer pool, size = 446.0M
+161116 11:36:18 InnoDB: Completed initialization of buffer pool
+161116 11:36:18 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161116 11:36:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161116 11:36:19  InnoDB: Waiting for the background threads to start
+161116 11:36:20 InnoDB: 1.1.8 started; log sequence number 6078619171
+161116 11:36:20 [Note] Event Scheduler: Loaded 3 events
+161116 11:36:20 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161116 11:47:29 [Warning] IP address '180.97.215.50' could not be resolved: 不知道这样的主机。 
+161116 12:21:38 [Warning] IP address '115.28.21.91' could not be resolved: 不知道这样的主机。 
+161116 13:14:47 [Warning] IP address '118.193.195.251' could not be resolved: 不知道这样的主机。 
+161116 13:58:30 [Warning] IP address '103.205.241.114' could not be resolved: 不知道这样的主机。 
+161116 14:47:28 [Warning] IP address '222.186.51.138' could not be resolved: 不知道这样的主机。 
+161116 16:59:28 [Warning] IP address '123.249.79.231' could not be resolved: 不知道这样的主机。 
+161116 17:07:05 [Warning] IP address '222.177.231.237' could not be resolved: 不知道这样的主机。 
+161116 17:07:10 [Warning] IP address '222.177.231.248' could not be resolved: 不知道这样的主机。 
+161116 17:07:15 [Warning] IP address '222.177.231.226' could not be resolved: 不知道这样的主机。 
+161116 17:13:11 [Warning] IP address '123.249.42.93' could not be resolved: 不知道这样的主机。 
+161116 19:28:08 [Warning] IP address '49.168.95.213' could not be resolved: 不知道这样的主机。 
+161116 19:46:24 [Warning] IP address '111.72.252.91' could not be resolved: 不知道这样的主机。 
+161116 19:57:06 [Warning] IP address '150.129.43.19' could not be resolved: 请求的名称有效，但是找不到请求的类型的数据。 
+161116 20:52:42 [Warning] IP address '101.200.78.64' could not be resolved: 不知道这样的主机。 
+161116 21:32:35 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+161116 21:32:35 [Note] Event Scheduler: Purging the queue. 3 events
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 679  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 678  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 677  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 676  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 675  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 674  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 673  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 672  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 671  user: 'seal'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 579  user: 'lulu'
+
+161116 21:32:37 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 578  user: 'lulu'
+
+161116 21:32:37  InnoDB: Starting shutdown...
+161116 21:32:38  InnoDB: Shutdown completed; log sequence number 6078619181
+161116 21:32:38 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+161116 21:33:41 [Note] Plugin 'FEDERATED' is disabled.
+161116 21:33:41 InnoDB: The InnoDB memory heap is disabled
+161116 21:33:41 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+161116 21:33:41 InnoDB: Compressed tables use zlib 1.2.3
+161116 21:33:41 InnoDB: Initializing buffer pool, size = 446.0M
+161116 21:33:41 InnoDB: Completed initialization of buffer pool
+161116 21:33:41 InnoDB: highest supported file format is Barracuda.
+161116 21:33:41  InnoDB: Waiting for the background threads to start
+161116 21:33:42 InnoDB: 1.1.8 started; log sequence number 6078619181
+161116 21:33:42 [Note] Event Scheduler: Loaded 3 events
+161116 21:33:42 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161116 21:39:34 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+161116 21:39:34 [Note] Event Scheduler: Purging the queue. 3 events
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 9  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 8  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 7  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 6  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 5  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 4  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 2  user: 'seal'
+
+161116 21:39:36 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 1  user: 'seal'
+
+161116 21:39:36  InnoDB: Starting shutdown...
+161116 21:39:37  InnoDB: Shutdown completed; log sequence number 6078619181
+161116 21:39:37 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+

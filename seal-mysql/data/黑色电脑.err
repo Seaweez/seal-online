@@ -1,0 +1,1070 @@
+220731 12:22:25 [Note] Plugin 'FEDERATED' is disabled.
+220731 12:22:25 InnoDB: The InnoDB memory heap is disabled
+220731 12:22:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220731 12:22:25 InnoDB: Compressed tables use zlib 1.2.3
+220731 12:22:25 InnoDB: Initializing buffer pool, size = 446.0M
+220731 12:22:25 InnoDB: Completed initialization of buffer pool
+220731 12:22:25 InnoDB: highest supported file format is Barracuda.
+220731 12:22:25  InnoDB: Waiting for the background threads to start
+220731 12:22:26 InnoDB: 1.1.8 started; log sequence number 33205106629
+220731 12:22:26 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220731 12:22:26 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220731 12:22:26 [Note] Event Scheduler: Loaded 3 events
+220731 12:22:26 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220731 12:24:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220731 12:24:57 [Note] Event Scheduler: Purging the queue. 3 events
+220731 12:24:57  InnoDB: Starting shutdown...
+220731 12:24:58  InnoDB: Shutdown completed; log sequence number 33205106629
+220731 12:24:58 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220731 12:25:18 [Note] Plugin 'FEDERATED' is disabled.
+220731 12:25:18 InnoDB: The InnoDB memory heap is disabled
+220731 12:25:18 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220731 12:25:18 InnoDB: Compressed tables use zlib 1.2.3
+220731 12:25:18 InnoDB: Initializing buffer pool, size = 446.0M
+220731 12:25:18 InnoDB: Completed initialization of buffer pool
+220731 12:25:18 InnoDB: highest supported file format is Barracuda.
+220731 12:25:18  InnoDB: Waiting for the background threads to start
+220731 12:25:19 InnoDB: 1.1.8 started; log sequence number 33205106629
+220731 12:25:19 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220731 12:25:19 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220731 12:25:19 [Note] Event Scheduler: Loaded 3 events
+220731 12:25:19 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220731 17:48:21 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220731 17:48:21 [Note] Event Scheduler: Purging the queue. 3 events
+220731 17:48:21  InnoDB: Starting shutdown...
+220731 17:48:21  InnoDB: Shutdown completed; log sequence number 33205107250
+220731 17:48:21 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220731 17:48:51 [Note] Plugin 'FEDERATED' is disabled.
+220731 17:48:51 InnoDB: The InnoDB memory heap is disabled
+220731 17:48:51 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220731 17:48:51 InnoDB: Compressed tables use zlib 1.2.3
+220731 17:48:51 InnoDB: Initializing buffer pool, size = 446.0M
+220731 17:48:51 InnoDB: Completed initialization of buffer pool
+220731 17:48:51 InnoDB: highest supported file format is Barracuda.
+220731 17:48:51  InnoDB: Waiting for the background threads to start
+220731 17:48:52 InnoDB: 1.1.8 started; log sequence number 33205107250
+220731 17:48:52 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220731 17:48:52 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220731 17:48:52 [Note] Event Scheduler: Loaded 3 events
+220731 17:48:52 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220731 17:48:54 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220731 17:48:55 [Note] Event Scheduler: Purging the queue. 3 events
+220731 17:48:55  InnoDB: Starting shutdown...
+220731 17:48:55  InnoDB: Shutdown completed; log sequence number 33205107250
+220731 17:48:55 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220731 19:39:14 [Note] Plugin 'FEDERATED' is disabled.
+220731 19:39:14 InnoDB: The InnoDB memory heap is disabled
+220731 19:39:14 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220731 19:39:14 InnoDB: Compressed tables use zlib 1.2.3
+220731 19:39:14 InnoDB: Initializing buffer pool, size = 446.0M
+220731 19:39:14 InnoDB: Completed initialization of buffer pool
+220731 19:39:14 InnoDB: highest supported file format is Barracuda.
+220731 19:39:14  InnoDB: Waiting for the background threads to start
+220731 19:39:15 InnoDB: 1.1.8 started; log sequence number 33205107250
+220731 19:39:15 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220731 19:39:15 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220731 19:39:15 [Note] Event Scheduler: Loaded 3 events
+220731 19:39:15 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220801  6:21:34 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220801  6:21:34 [Note] Event Scheduler: Purging the queue. 3 events
+220801  6:21:34  InnoDB: Starting shutdown...
+220801  6:21:35  InnoDB: Shutdown completed; log sequence number 33205117700
+220801  6:21:35 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220801  6:23:43 [Note] Plugin 'FEDERATED' is disabled.
+220801  6:23:43 InnoDB: The InnoDB memory heap is disabled
+220801  6:23:43 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220801  6:23:43 InnoDB: Compressed tables use zlib 1.2.3
+220801  6:23:43 InnoDB: Initializing buffer pool, size = 446.0M
+220801  6:23:43 InnoDB: Completed initialization of buffer pool
+220801  6:23:43 InnoDB: highest supported file format is Barracuda.
+220801  6:23:43  InnoDB: Waiting for the background threads to start
+220801  6:23:44 InnoDB: 1.1.8 started; log sequence number 33205117700
+220801  6:23:44 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220801  6:23:44 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220801  6:23:44 [Note] Event Scheduler: Loaded 3 events
+220801  6:23:44 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220801  8:10:14 [Note] Plugin 'FEDERATED' is disabled.
+220801  8:10:15 InnoDB: The InnoDB memory heap is disabled
+220801  8:10:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220801  8:10:15 InnoDB: Compressed tables use zlib 1.2.3
+220801  8:10:15 InnoDB: Initializing buffer pool, size = 446.0M
+220801  8:10:15 InnoDB: Completed initialization of buffer pool
+220801  8:10:15 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220801  8:10:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220801  8:10:15  InnoDB: Waiting for the background threads to start
+220801  8:10:16 InnoDB: 1.1.8 started; log sequence number 33205117710
+220801  8:10:16 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220801  8:10:16 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220801  8:10:16 [Note] Event Scheduler: Loaded 3 events
+220801  8:10:16 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220801 10:09:03 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220801 10:16:59 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220801 22:47:41 [ERROR] Cannot find or open table seal_member/td from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+220802 13:06:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220802 13:06:57 [Note] Event Scheduler: Purging the queue. 3 events
+220802 13:06:57  InnoDB: Starting shutdown...
+220802 13:06:57  InnoDB: Shutdown completed; log sequence number 33205120193
+220802 13:06:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220802 17:28:50 [Note] Plugin 'FEDERATED' is disabled.
+220802 17:28:50 InnoDB: The InnoDB memory heap is disabled
+220802 17:28:50 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220802 17:28:50 InnoDB: Compressed tables use zlib 1.2.3
+220802 17:28:50 InnoDB: Initializing buffer pool, size = 446.0M
+220802 17:28:50 InnoDB: Completed initialization of buffer pool
+220802 17:28:50 InnoDB: highest supported file format is Barracuda.
+220802 17:28:51  InnoDB: Waiting for the background threads to start
+220802 17:28:52 InnoDB: 1.1.8 started; log sequence number 33205120193
+220802 17:28:52 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220802 17:28:52 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220802 17:28:52 [Note] Event Scheduler: Loaded 3 events
+220802 17:28:52 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220802 23:16:41 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220802 23:16:41 [Note] Event Scheduler: Purging the queue. 3 events
+220802 23:16:41  InnoDB: Starting shutdown...
+220802 23:16:41  InnoDB: Shutdown completed; log sequence number 33205120193
+220802 23:16:41 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220803 11:09:30 [Note] Plugin 'FEDERATED' is disabled.
+220803 11:09:30 InnoDB: The InnoDB memory heap is disabled
+220803 11:09:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220803 11:09:30 InnoDB: Compressed tables use zlib 1.2.3
+220803 11:09:30 InnoDB: Initializing buffer pool, size = 446.0M
+220803 11:09:30 InnoDB: Completed initialization of buffer pool
+220803 11:09:30 InnoDB: highest supported file format is Barracuda.
+220803 11:09:30  InnoDB: Waiting for the background threads to start
+220803 11:09:31 InnoDB: 1.1.8 started; log sequence number 33205120193
+220803 11:09:31 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220803 11:09:31 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220803 11:09:31 [Note] Event Scheduler: Loaded 3 events
+220803 11:09:31 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220804  9:15:03 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220804  9:15:03 [Note] Event Scheduler: Purging the queue. 3 events
+220804  9:15:03  InnoDB: Starting shutdown...
+220804  9:15:04  InnoDB: Shutdown completed; log sequence number 33205120203
+220804  9:15:04 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220804  9:34:06 [Note] Plugin 'FEDERATED' is disabled.
+220804  9:34:06 InnoDB: The InnoDB memory heap is disabled
+220804  9:34:06 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220804  9:34:06 InnoDB: Compressed tables use zlib 1.2.3
+220804  9:34:06 InnoDB: Initializing buffer pool, size = 446.0M
+220804  9:34:06 InnoDB: Completed initialization of buffer pool
+220804  9:34:06 InnoDB: highest supported file format is Barracuda.
+220804  9:34:07  InnoDB: Waiting for the background threads to start
+220804  9:34:08 InnoDB: 1.1.8 started; log sequence number 33205120203
+220804  9:34:08 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220804  9:34:08 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220804  9:34:08 [Note] Event Scheduler: Loaded 3 events
+220804  9:34:08 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220804 18:59:12 [Note] Plugin 'FEDERATED' is disabled.
+220804 18:59:12 InnoDB: The InnoDB memory heap is disabled
+220804 18:59:12 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220804 18:59:12 InnoDB: Compressed tables use zlib 1.2.3
+220804 18:59:12 InnoDB: Initializing buffer pool, size = 446.0M
+220804 18:59:12 InnoDB: Completed initialization of buffer pool
+220804 18:59:12 InnoDB: highest supported file format is Barracuda.
+220804 18:59:12  InnoDB: Waiting for the background threads to start
+220804 18:59:13 InnoDB: 1.1.8 started; log sequence number 33205120203
+220804 18:59:13 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220804 18:59:13 [Note] Event Scheduler: Loaded 3 events
+220804 18:59:13 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220804 23:16:28 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220804 23:16:28 [Note] Event Scheduler: Purging the queue. 3 events
+220804 23:16:28  InnoDB: Starting shutdown...
+220804 23:16:29  InnoDB: Shutdown completed; log sequence number 33205120203
+220804 23:16:29 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220805  7:40:47 [Note] Plugin 'FEDERATED' is disabled.
+220805  7:40:47 InnoDB: The InnoDB memory heap is disabled
+220805  7:40:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220805  7:40:47 InnoDB: Compressed tables use zlib 1.2.3
+220805  7:40:47 InnoDB: Initializing buffer pool, size = 446.0M
+220805  7:40:47 InnoDB: Completed initialization of buffer pool
+220805  7:40:47 InnoDB: highest supported file format is Barracuda.
+220805  7:40:48  InnoDB: Waiting for the background threads to start
+220805  7:40:49 InnoDB: 1.1.8 started; log sequence number 33205120203
+220805  7:40:49 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805  7:40:49 [Note] Event Scheduler: Loaded 3 events
+220805  7:40:49 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220805 19:10:38 [Note] Plugin 'FEDERATED' is disabled.
+220805 19:10:38 InnoDB: The InnoDB memory heap is disabled
+220805 19:10:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220805 19:10:38 InnoDB: Compressed tables use zlib 1.2.3
+220805 19:10:38 InnoDB: Initializing buffer pool, size = 446.0M
+220805 19:10:38 InnoDB: Completed initialization of buffer pool
+220805 19:10:38 InnoDB: highest supported file format is Barracuda.
+220805 19:10:39  InnoDB: Waiting for the background threads to start
+220805 19:10:40 InnoDB: 1.1.8 started; log sequence number 33205120203
+220805 19:10:40 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220805 19:10:40 [Note] Event Scheduler: Loaded 3 events
+220805 19:10:40 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220805 23:29:29 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220805 23:29:29 [Note] Event Scheduler: Purging the queue. 3 events
+220805 23:29:29  InnoDB: Starting shutdown...
+220805 23:29:30  InnoDB: Shutdown completed; log sequence number 33205120203
+220805 23:29:30 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220806 11:36:07 [Note] Plugin 'FEDERATED' is disabled.
+220806 11:36:07 InnoDB: The InnoDB memory heap is disabled
+220806 11:36:07 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220806 11:36:07 InnoDB: Compressed tables use zlib 1.2.3
+220806 11:36:07 InnoDB: Initializing buffer pool, size = 446.0M
+220806 11:36:07 InnoDB: Completed initialization of buffer pool
+220806 11:36:07 InnoDB: highest supported file format is Barracuda.
+220806 11:36:08  InnoDB: Waiting for the background threads to start
+220806 11:36:09 InnoDB: 1.1.8 started; log sequence number 33205120203
+220806 11:36:09 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udfs.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 11:36:09 [Note] Event Scheduler: Loaded 3 events
+220806 11:36:09 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220806 15:31:21 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220806 15:31:21 [Note] Event Scheduler: Purging the queue. 3 events
+220806 15:31:21  InnoDB: Starting shutdown...
+220806 15:31:21  InnoDB: Shutdown completed; log sequence number 33205120203
+220806 15:31:21 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220806 19:28:04 [Note] Plugin 'FEDERATED' is disabled.
+220806 19:28:04 InnoDB: The InnoDB memory heap is disabled
+220806 19:28:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220806 19:28:04 InnoDB: Compressed tables use zlib 1.2.3
+220806 19:28:04 InnoDB: Initializing buffer pool, size = 446.0M
+220806 19:28:04 InnoDB: Completed initialization of buffer pool
+220806 19:28:04 InnoDB: highest supported file format is Barracuda.
+220806 19:28:05  InnoDB: Waiting for the background threads to start
+220806 19:28:06 InnoDB: 1.1.8 started; log sequence number 33205120203
+220806 19:28:06 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220806 19:28:06 [Note] Event Scheduler: Loaded 3 events
+220806 19:28:06 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220807  0:31:29 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220807  0:31:29 [Note] Event Scheduler: Purging the queue. 3 events
+220807  0:31:29  InnoDB: Starting shutdown...
+220807  0:31:29  InnoDB: Shutdown completed; log sequence number 33205120203
+220807  0:31:29 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220807 12:57:12 [Note] Plugin 'FEDERATED' is disabled.
+220807 12:57:12 InnoDB: The InnoDB memory heap is disabled
+220807 12:57:12 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220807 12:57:12 InnoDB: Compressed tables use zlib 1.2.3
+220807 12:57:12 InnoDB: Initializing buffer pool, size = 446.0M
+220807 12:57:12 InnoDB: Completed initialization of buffer pool
+220807 12:57:12 InnoDB: highest supported file format is Barracuda.
+220807 12:57:12  InnoDB: Waiting for the background threads to start
+220807 12:57:13 InnoDB: 1.1.8 started; log sequence number 33205120203
+220807 12:57:13 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 12:57:13 [Note] Event Scheduler: Loaded 3 events
+220807 12:57:13 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220807 13:07:59 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220807 13:07:59 [Note] Event Scheduler: Purging the queue. 3 events
+220807 13:07:59  InnoDB: Starting shutdown...
+220807 13:07:59  InnoDB: Shutdown completed; log sequence number 33205120203
+220807 13:07:59 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220807 15:22:04 [Note] Plugin 'FEDERATED' is disabled.
+220807 15:22:04 InnoDB: The InnoDB memory heap is disabled
+220807 15:22:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220807 15:22:04 InnoDB: Compressed tables use zlib 1.2.3
+220807 15:22:04 InnoDB: Initializing buffer pool, size = 446.0M
+220807 15:22:05 InnoDB: Completed initialization of buffer pool
+220807 15:22:05 InnoDB: highest supported file format is Barracuda.
+220807 15:22:05  InnoDB: Waiting for the background threads to start
+220807 15:22:06 InnoDB: 1.1.8 started; log sequence number 33205120203
+220807 15:22:06 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 15:22:06 [Note] Event Scheduler: Loaded 3 events
+220807 15:22:06 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220808  0:31:08 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220808  0:31:08 [Note] Event Scheduler: Purging the queue. 3 events
+220808  0:31:08  InnoDB: Starting shutdown...
+220808  0:31:08  InnoDB: Shutdown completed; log sequence number 33205120698
+220808  0:31:08 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220808  7:23:30 [Note] Plugin 'FEDERATED' is disabled.
+220808  7:23:30 InnoDB: The InnoDB memory heap is disabled
+220808  7:23:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220808  7:23:30 InnoDB: Compressed tables use zlib 1.2.3
+220808  7:23:30 InnoDB: Initializing buffer pool, size = 446.0M
+220808  7:23:30 InnoDB: Completed initialization of buffer pool
+220808  7:23:30 InnoDB: highest supported file format is Barracuda.
+220808  7:23:31  InnoDB: Waiting for the background threads to start
+220808  7:23:32 InnoDB: 1.1.8 started; log sequence number 33205120698
+220808  7:23:32 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808  7:23:32 [Note] Event Scheduler: Loaded 3 events
+220808  7:23:32 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220808 10:09:17 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220808 10:09:17 [Note] Event Scheduler: Purging the queue. 3 events
+220808 10:09:17  InnoDB: Starting shutdown...
+220808 10:09:18  InnoDB: Shutdown completed; log sequence number 33205120698
+220808 10:09:18 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220808 10:09:52 [Note] Plugin 'FEDERATED' is disabled.
+220808 10:09:52 InnoDB: The InnoDB memory heap is disabled
+220808 10:09:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220808 10:09:52 InnoDB: Compressed tables use zlib 1.2.3
+220808 10:09:52 InnoDB: Initializing buffer pool, size = 446.0M
+220808 10:09:52 InnoDB: Completed initialization of buffer pool
+220808 10:09:52 InnoDB: highest supported file format is Barracuda.
+220808 10:09:53  InnoDB: Waiting for the background threads to start
+220808 10:09:54 InnoDB: 1.1.8 started; log sequence number 33205120698
+220808 10:09:54 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 10:09:54 [Note] Event Scheduler: Loaded 3 events
+220808 10:09:54 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220808 10:10:58 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220808 10:10:58 [Note] Event Scheduler: Purging the queue. 3 events
+220807 17:10:58  InnoDB: Starting shutdown...
+220807 17:10:58  InnoDB: Shutdown completed; log sequence number 33205120698
+220808 10:10:58 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220807 17:18:10 [Note] Plugin 'FEDERATED' is disabled.
+220807 17:18:10 InnoDB: The InnoDB memory heap is disabled
+220807 17:18:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220807 17:18:10 InnoDB: Compressed tables use zlib 1.2.3
+220807 17:18:10 InnoDB: Initializing buffer pool, size = 446.0M
+220807 17:18:10 InnoDB: Completed initialization of buffer pool
+220807 17:18:10 InnoDB: highest supported file format is Barracuda.
+220807 17:18:10  InnoDB: Waiting for the background threads to start
+220807 17:18:11 InnoDB: 1.1.8 started; log sequence number 33205120698
+220807 17:18:11 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:11 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:18:12 [Note] Event Scheduler: Loaded 3 events
+220807 17:18:12 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220808 18:30:56 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220808 18:30:56 [Note] Event Scheduler: Purging the queue. 3 events
+220808 18:30:56  InnoDB: Starting shutdown...
+220808 18:30:57  InnoDB: Shutdown completed; log sequence number 33205120708
+220808 18:30:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220808 18:50:08 [Note] Plugin 'FEDERATED' is disabled.
+220808 18:50:08 InnoDB: The InnoDB memory heap is disabled
+220808 18:50:08 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220808 18:50:08 InnoDB: Compressed tables use zlib 1.2.3
+220808 18:50:08 InnoDB: Initializing buffer pool, size = 446.0M
+220808 18:50:08 InnoDB: Completed initialization of buffer pool
+220808 18:50:08 InnoDB: highest supported file format is Barracuda.
+220808 18:50:08  InnoDB: Waiting for the background threads to start
+220808 18:50:09 InnoDB: 1.1.8 started; log sequence number 33205120708
+220808 18:50:09 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220808 18:50:09 [Note] Event Scheduler: Loaded 3 events
+220808 18:50:09 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220809  0:03:35 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220809  0:03:35 [Note] Event Scheduler: Purging the queue. 3 events
+220809  0:03:35  InnoDB: Starting shutdown...
+220809  0:03:36  InnoDB: Shutdown completed; log sequence number 33205120718
+220809  0:03:36 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220809  9:49:13 [Note] Plugin 'FEDERATED' is disabled.
+220809  9:49:13 InnoDB: The InnoDB memory heap is disabled
+220809  9:49:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220809  9:49:13 InnoDB: Compressed tables use zlib 1.2.3
+220809  9:49:13 InnoDB: Initializing buffer pool, size = 446.0M
+220809  9:49:13 InnoDB: Completed initialization of buffer pool
+220809  9:49:13 InnoDB: highest supported file format is Barracuda.
+220809  9:49:13  InnoDB: Waiting for the background threads to start
+220809  9:49:14 InnoDB: 1.1.8 started; log sequence number 33205120718
+220809  9:49:15 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809  9:49:15 [Note] Event Scheduler: Loaded 3 events
+220809  9:49:15 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220809 23:16:22 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220809 23:16:22 [Note] Event Scheduler: Purging the queue. 3 events
+220809 23:16:22  InnoDB: Starting shutdown...
+220809 23:16:23  InnoDB: Shutdown completed; log sequence number 33205120718
+220809 23:16:23 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220809 23:36:16 [Note] Plugin 'FEDERATED' is disabled.
+220809 23:36:16 InnoDB: The InnoDB memory heap is disabled
+220809 23:36:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220809 23:36:16 InnoDB: Compressed tables use zlib 1.2.3
+220809 23:36:16 InnoDB: Initializing buffer pool, size = 446.0M
+220809 23:36:16 InnoDB: Completed initialization of buffer pool
+220809 23:36:16 InnoDB: highest supported file format is Barracuda.
+220809 23:36:16  InnoDB: Waiting for the background threads to start
+220809 23:36:17 InnoDB: 1.1.8 started; log sequence number 33205120718
+220809 23:36:17 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220809 23:36:17 [Note] Event Scheduler: Loaded 3 events
+220809 23:36:17 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220809 23:37:15 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220809 23:37:15 [Note] Event Scheduler: Purging the queue. 3 events
+220809 23:37:15  InnoDB: Starting shutdown...
+220809 23:37:16  InnoDB: Shutdown completed; log sequence number 33205120718
+220809 23:37:16 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220810  8:42:57 [Note] Plugin 'FEDERATED' is disabled.
+220810  8:42:57 InnoDB: The InnoDB memory heap is disabled
+220810  8:42:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220810  8:42:57 InnoDB: Compressed tables use zlib 1.2.3
+220810  8:42:57 InnoDB: Initializing buffer pool, size = 446.0M
+220810  8:42:57 InnoDB: Completed initialization of buffer pool
+220810  8:42:57 InnoDB: highest supported file format is Barracuda.
+220810  8:42:58  InnoDB: Waiting for the background threads to start
+220810  8:42:59 InnoDB: 1.1.8 started; log sequence number 33205120718
+220810  8:42:59 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810  8:42:59 [Note] Event Scheduler: Loaded 3 events
+220810  8:42:59 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220810 23:23:17 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220810 23:23:17 [Note] Event Scheduler: Purging the queue. 3 events
+220810 23:23:17  InnoDB: Starting shutdown...
+220810 23:23:17  InnoDB: Shutdown completed; log sequence number 33205120728
+220810 23:23:17 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220810 23:23:51 [Note] Plugin 'FEDERATED' is disabled.
+220810 23:23:52 InnoDB: The InnoDB memory heap is disabled
+220810 23:23:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220810 23:23:52 InnoDB: Compressed tables use zlib 1.2.3
+220810 23:23:52 InnoDB: Initializing buffer pool, size = 446.0M
+220810 23:23:52 InnoDB: Completed initialization of buffer pool
+220810 23:23:52 InnoDB: highest supported file format is Barracuda.
+220810 23:23:52  InnoDB: Waiting for the background threads to start
+220810 23:23:53 InnoDB: 1.1.8 started; log sequence number 33205120728
+220810 23:23:53 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220810 23:23:53 [Note] Event Scheduler: Loaded 3 events
+220810 23:23:53 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220810 23:24:34 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220810 23:24:34 [Note] Event Scheduler: Purging the queue. 3 events
+220810 23:24:34  InnoDB: Starting shutdown...
+220810 23:24:34  InnoDB: Shutdown completed; log sequence number 33205120728
+220810 23:24:34 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220811  9:23:50 [Note] Plugin 'FEDERATED' is disabled.
+220811  9:23:50 InnoDB: The InnoDB memory heap is disabled
+220811  9:23:50 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220811  9:23:50 InnoDB: Compressed tables use zlib 1.2.3
+220811  9:23:50 InnoDB: Initializing buffer pool, size = 446.0M
+220811  9:23:50 InnoDB: Completed initialization of buffer pool
+220811  9:23:50 InnoDB: highest supported file format is Barracuda.
+220811  9:23:51  InnoDB: Waiting for the background threads to start
+220811  9:23:52 InnoDB: 1.1.8 started; log sequence number 33205120728
+220811  9:23:52 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220811  9:23:52 [Note] Event Scheduler: Loaded 3 events
+220811  9:23:52 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220811 23:54:42 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220811 23:54:42 [Note] Event Scheduler: Purging the queue. 3 events
+220811 23:54:42  InnoDB: Starting shutdown...
+220811 23:54:42  InnoDB: Shutdown completed; log sequence number 33205120738
+220811 23:54:42 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220812  9:31:03 [Note] Plugin 'FEDERATED' is disabled.
+220812  9:31:04 InnoDB: The InnoDB memory heap is disabled
+220812  9:31:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220812  9:31:04 InnoDB: Compressed tables use zlib 1.2.3
+220812  9:31:04 InnoDB: Initializing buffer pool, size = 446.0M
+220812  9:31:04 InnoDB: Completed initialization of buffer pool
+220812  9:31:04 InnoDB: highest supported file format is Barracuda.
+220812  9:31:04  InnoDB: Waiting for the background threads to start
+220812  9:31:05 InnoDB: 1.1.8 started; log sequence number 33205120738
+220812  9:31:05 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220812  9:31:05 [Note] Event Scheduler: Loaded 3 events
+220812  9:31:05 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220813  0:45:47 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220813  0:45:47 [Note] Event Scheduler: Purging the queue. 3 events
+220813  0:45:47  InnoDB: Starting shutdown...
+220813  0:45:48  InnoDB: Shutdown completed; log sequence number 33205120748
+220813  0:45:48 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220813  3:08:18 [Note] Plugin 'FEDERATED' is disabled.
+220813  3:08:18 InnoDB: The InnoDB memory heap is disabled
+220813  3:08:18 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220813  3:08:18 InnoDB: Compressed tables use zlib 1.2.3
+220813  3:08:18 InnoDB: Initializing buffer pool, size = 446.0M
+220813  3:08:18 InnoDB: Completed initialization of buffer pool
+220813  3:08:18 InnoDB: highest supported file format is Barracuda.
+220813  3:08:18  InnoDB: Waiting for the background threads to start
+220813  3:08:19 InnoDB: 1.1.8 started; log sequence number 33205120748
+220813  3:08:19 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220813  3:08:19 [Note] Event Scheduler: Loaded 3 events
+220813  3:08:19 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220816  8:11:45 [Note] Plugin 'FEDERATED' is disabled.
+220816  8:11:45 InnoDB: The InnoDB memory heap is disabled
+220816  8:11:45 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220816  8:11:45 InnoDB: Compressed tables use zlib 1.2.3
+220816  8:11:45 InnoDB: Initializing buffer pool, size = 446.0M
+220816  8:11:45 InnoDB: Completed initialization of buffer pool
+220816  8:11:45 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220816  8:11:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220816  8:11:46  InnoDB: Waiting for the background threads to start
+220816  8:11:47 InnoDB: 1.1.8 started; log sequence number 33205121349
+220816  8:11:47 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816  8:11:47 [Note] Event Scheduler: Loaded 3 events
+220816  8:11:47 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220816 15:13:06 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220816 15:13:06 [Note] Event Scheduler: Purging the queue. 3 events
+220816 15:13:06  InnoDB: Starting shutdown...
+220816 15:13:06  InnoDB: Shutdown completed; log sequence number 33205121349
+220816 15:13:06 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220816 15:13:42 [Note] Plugin 'FEDERATED' is disabled.
+220816 15:13:42 InnoDB: The InnoDB memory heap is disabled
+220816 15:13:42 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220816 15:13:42 InnoDB: Compressed tables use zlib 1.2.3
+220816 15:13:42 InnoDB: Initializing buffer pool, size = 446.0M
+220816 15:13:42 InnoDB: Completed initialization of buffer pool
+220816 15:13:42 InnoDB: highest supported file format is Barracuda.
+220816 15:13:42  InnoDB: Waiting for the background threads to start
+220816 15:13:43 InnoDB: 1.1.8 started; log sequence number 33205121349
+220816 15:13:43 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 15:13:43 [Note] Event Scheduler: Loaded 3 events
+220816 15:13:43 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220816 21:49:30 [Note] Plugin 'FEDERATED' is disabled.
+220816 21:49:30 InnoDB: The InnoDB memory heap is disabled
+220816 21:49:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220816 21:49:30 InnoDB: Compressed tables use zlib 1.2.3
+220816 21:49:30 InnoDB: Initializing buffer pool, size = 446.0M
+220816 21:49:30 InnoDB: Completed initialization of buffer pool
+220816 21:49:30 InnoDB: highest supported file format is Barracuda.
+220816 21:49:30  InnoDB: Waiting for the background threads to start
+220816 21:49:31 InnoDB: 1.1.8 started; log sequence number 33205121349
+220816 21:49:31 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220816 21:49:31 [Note] Event Scheduler: Loaded 3 events
+220816 21:49:31 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220817  8:39:43 [Note] Plugin 'FEDERATED' is disabled.
+220817  8:39:43 InnoDB: The InnoDB memory heap is disabled
+220817  8:39:43 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220817  8:39:43 InnoDB: Compressed tables use zlib 1.2.3
+220817  8:39:43 InnoDB: Initializing buffer pool, size = 446.0M
+220817  8:39:43 InnoDB: Completed initialization of buffer pool
+220817  8:39:43 InnoDB: highest supported file format is Barracuda.
+220817  8:39:44  InnoDB: Waiting for the background threads to start
+220817  8:39:45 InnoDB: 1.1.8 started; log sequence number 33205121349
+220817  8:39:45 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817  8:39:45 [Note] Event Scheduler: Loaded 3 events
+220817  8:39:45 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220817 13:15:05 [Note] Plugin 'FEDERATED' is disabled.
+220817 13:15:05 InnoDB: The InnoDB memory heap is disabled
+220817 13:15:05 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220817 13:15:05 InnoDB: Compressed tables use zlib 1.2.3
+220817 13:15:05 InnoDB: Initializing buffer pool, size = 446.0M
+220817 13:15:05 InnoDB: Completed initialization of buffer pool
+220817 13:15:05 InnoDB: highest supported file format is Barracuda.
+220817 13:15:05  InnoDB: Waiting for the background threads to start
+220817 13:15:06 InnoDB: 1.1.8 started; log sequence number 33205121349
+220817 13:15:06 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220817 13:15:06 [Note] Event Scheduler: Loaded 3 events
+220817 13:15:06 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220817 23:38:31 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220817 23:38:31 [Note] Event Scheduler: Purging the queue. 3 events
+220817 23:38:31  InnoDB: Starting shutdown...
+220817 23:38:33  InnoDB: Shutdown completed; log sequence number 33205122207
+220817 23:38:33 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220818  7:27:58 [Note] Plugin 'FEDERATED' is disabled.
+220818  7:27:58 InnoDB: The InnoDB memory heap is disabled
+220818  7:27:58 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220818  7:27:58 InnoDB: Compressed tables use zlib 1.2.3
+220818  7:27:58 InnoDB: Initializing buffer pool, size = 446.0M
+220818  7:27:58 InnoDB: Completed initialization of buffer pool
+220818  7:27:58 InnoDB: highest supported file format is Barracuda.
+220818  7:27:58  InnoDB: Waiting for the background threads to start
+220818  7:27:59 InnoDB: 1.1.8 started; log sequence number 33205122207
+220818  7:27:59 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220818  7:27:59 [Note] Event Scheduler: Loaded 3 events
+220818  7:27:59 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220818 23:26:36 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220818 23:26:36 [Note] Event Scheduler: Purging the queue. 3 events
+220818 23:26:36  InnoDB: Starting shutdown...
+220818 23:26:37  InnoDB: Shutdown completed; log sequence number 33205122217
+220818 23:26:37 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220819  8:33:40 [Note] Plugin 'FEDERATED' is disabled.
+220819  8:33:40 InnoDB: The InnoDB memory heap is disabled
+220819  8:33:40 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220819  8:33:40 InnoDB: Compressed tables use zlib 1.2.3
+220819  8:33:40 InnoDB: Initializing buffer pool, size = 446.0M
+220819  8:33:40 InnoDB: Completed initialization of buffer pool
+220819  8:33:40 InnoDB: highest supported file format is Barracuda.
+220819  8:33:40  InnoDB: Waiting for the background threads to start
+220819  8:33:41 InnoDB: 1.1.8 started; log sequence number 33205122217
+220819  8:33:41 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220819  8:33:41 [Note] Event Scheduler: Loaded 3 events
+220819  8:33:41 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220821  0:55:51 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220821  0:55:51 [Note] Event Scheduler: Purging the queue. 3 events
+220821  0:55:51  InnoDB: Starting shutdown...
+220821  0:55:51  InnoDB: Shutdown completed; log sequence number 33205122227
+220821  0:55:51 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220821  8:41:47 [Note] Plugin 'FEDERATED' is disabled.
+220821  8:41:47 InnoDB: The InnoDB memory heap is disabled
+220821  8:41:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220821  8:41:47 InnoDB: Compressed tables use zlib 1.2.3
+220821  8:41:47 InnoDB: Initializing buffer pool, size = 446.0M
+220821  8:41:47 InnoDB: Completed initialization of buffer pool
+220821  8:41:47 InnoDB: highest supported file format is Barracuda.
+220821  8:41:47  InnoDB: Waiting for the background threads to start
+220821  8:41:48 InnoDB: 1.1.8 started; log sequence number 33205122227
+220821  8:41:48 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220821  8:41:48 [Note] Event Scheduler: Loaded 3 events
+220821  8:41:48 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220822  0:25:00 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220822  0:25:00 [Note] Event Scheduler: Purging the queue. 3 events
+220822  0:25:00  InnoDB: Starting shutdown...
+220822  0:25:01  InnoDB: Shutdown completed; log sequence number 33205122237
+220822  0:25:01 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220822 10:26:35 [Note] Plugin 'FEDERATED' is disabled.
+220822 10:26:35 InnoDB: The InnoDB memory heap is disabled
+220822 10:26:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220822 10:26:35 InnoDB: Compressed tables use zlib 1.2.3
+220822 10:26:35 InnoDB: Initializing buffer pool, size = 446.0M
+220822 10:26:35 InnoDB: Completed initialization of buffer pool
+220822 10:26:35 InnoDB: highest supported file format is Barracuda.
+220822 10:26:35  InnoDB: Waiting for the background threads to start
+220822 10:26:36 InnoDB: 1.1.8 started; log sequence number 33205122237
+220822 10:26:36 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220822 10:26:36 [Note] Event Scheduler: Loaded 3 events
+220822 10:26:36 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220822 23:24:37 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220822 23:24:37 [Note] Event Scheduler: Purging the queue. 3 events
+220822 23:24:37  InnoDB: Starting shutdown...
+220822 23:24:38  InnoDB: Shutdown completed; log sequence number 33205122247
+220822 23:24:38 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220823  8:37:54 [Note] Plugin 'FEDERATED' is disabled.
+220823  8:37:54 InnoDB: The InnoDB memory heap is disabled
+220823  8:37:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220823  8:37:54 InnoDB: Compressed tables use zlib 1.2.3
+220823  8:37:54 InnoDB: Initializing buffer pool, size = 446.0M
+220823  8:37:54 InnoDB: Completed initialization of buffer pool
+220823  8:37:54 InnoDB: highest supported file format is Barracuda.
+220823  8:37:54  InnoDB: Waiting for the background threads to start
+220823  8:37:55 InnoDB: 1.1.8 started; log sequence number 33205122247
+220823  8:37:55 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823  8:37:55 [Note] Event Scheduler: Loaded 3 events
+220823  8:37:55 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220823 17:24:16 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220823 17:24:16 [Note] Event Scheduler: Purging the queue. 3 events
+220823 17:24:16  InnoDB: Starting shutdown...
+220823 17:24:17  InnoDB: Shutdown completed; log sequence number 33205122257
+220823 17:24:17 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220823 17:41:45 [Note] Plugin 'FEDERATED' is disabled.
+220823 17:41:45 InnoDB: The InnoDB memory heap is disabled
+220823 17:41:45 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220823 17:41:45 InnoDB: Compressed tables use zlib 1.2.3
+220823 17:41:45 InnoDB: Initializing buffer pool, size = 446.0M
+220823 17:41:45 InnoDB: Completed initialization of buffer pool
+220823 17:41:45 InnoDB: highest supported file format is Barracuda.
+220823 17:41:45  InnoDB: Waiting for the background threads to start
+220823 17:41:46 InnoDB: 1.1.8 started; log sequence number 33205122257
+220823 17:41:46 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220823 17:41:46 [Note] Event Scheduler: Loaded 3 events
+220823 17:41:46 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220823 23:50:44 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220823 23:50:44 [Note] Event Scheduler: Purging the queue. 3 events
+220823 23:50:44  InnoDB: Starting shutdown...
+220823 23:50:44  InnoDB: Shutdown completed; log sequence number 33205122267
+220823 23:50:44 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220824  7:29:26 [Note] Plugin 'FEDERATED' is disabled.
+220824  7:29:26 InnoDB: The InnoDB memory heap is disabled
+220824  7:29:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220824  7:29:26 InnoDB: Compressed tables use zlib 1.2.3
+220824  7:29:26 InnoDB: Initializing buffer pool, size = 446.0M
+220824  7:29:26 InnoDB: Completed initialization of buffer pool
+220824  7:29:26 InnoDB: highest supported file format is Barracuda.
+220824  7:29:26  InnoDB: Waiting for the background threads to start
+220824  7:29:27 InnoDB: 1.1.8 started; log sequence number 33205122267
+220824  7:29:27 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220824  7:29:27 [Note] Event Scheduler: Loaded 3 events
+220824  7:29:27 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220826  1:22:32 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220826  1:22:32 [Note] Event Scheduler: Purging the queue. 3 events
+220826  1:22:32  InnoDB: Starting shutdown...
+220826  1:22:32  InnoDB: Shutdown completed; log sequence number 33205122277
+220826  1:22:32 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220826  8:22:00 [Note] Plugin 'FEDERATED' is disabled.
+220826  8:22:00 InnoDB: The InnoDB memory heap is disabled
+220826  8:22:00 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220826  8:22:00 InnoDB: Compressed tables use zlib 1.2.3
+220826  8:22:00 InnoDB: Initializing buffer pool, size = 446.0M
+220826  8:22:00 InnoDB: Completed initialization of buffer pool
+220826  8:22:00 InnoDB: highest supported file format is Barracuda.
+220826  8:22:00  InnoDB: Waiting for the background threads to start
+220826  8:22:01 InnoDB: 1.1.8 started; log sequence number 33205122277
+220826  8:22:01 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220826  8:22:01 [Note] Event Scheduler: Loaded 3 events
+220826  8:22:01 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220827  0:01:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220827  0:01:57 [Note] Event Scheduler: Purging the queue. 3 events
+220827  0:01:57  InnoDB: Starting shutdown...
+220827  0:01:57  InnoDB: Shutdown completed; log sequence number 33205122277
+220827  0:01:57 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220827  8:51:44 [Note] Plugin 'FEDERATED' is disabled.
+220827  8:51:44 InnoDB: The InnoDB memory heap is disabled
+220827  8:51:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220827  8:51:44 InnoDB: Compressed tables use zlib 1.2.3
+220827  8:51:44 InnoDB: Initializing buffer pool, size = 446.0M
+220827  8:51:44 InnoDB: Completed initialization of buffer pool
+220827  8:51:44 InnoDB: highest supported file format is Barracuda.
+220827  8:51:44  InnoDB: Waiting for the background threads to start
+220827  8:51:45 InnoDB: 1.1.8 started; log sequence number 33205122277
+220827  8:51:45 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827  8:51:46 [Note] Event Scheduler: Loaded 3 events
+220827  8:51:46 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220827  9:14:39  InnoDB: Error: table `ls`.`cheaperhardid` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220827  9:14:39  InnoDB: Error: table `ls`.`config` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220827  9:14:39  InnoDB: Error: table `ls`.`loginserverver` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220827  9:14:39  InnoDB: Error: table `ls`.`websell` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+220827 11:09:59 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220827 11:10:00 [Note] Event Scheduler: Purging the queue. 5 events
+220827 11:10:00  InnoDB: Starting shutdown...
+220827 11:10:00  InnoDB: Shutdown completed; log sequence number 33205122287
+220827 11:10:00 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+
+220827 11:12:57 [Note] Plugin 'FEDERATED' is disabled.
+220827 11:12:57 InnoDB: The InnoDB memory heap is disabled
+220827 11:12:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220827 11:12:57 InnoDB: Compressed tables use zlib 1.2.3
+220827 11:12:57 InnoDB: Initializing buffer pool, size = 446.0M
+220827 11:12:57 InnoDB: Completed initialization of buffer pool
+220827 11:12:57 InnoDB: highest supported file format is Barracuda.
+220827 11:12:57  InnoDB: Waiting for the background threads to start
+220827 11:12:58 InnoDB: 1.1.8 started; log sequence number 33205122287
+220827 11:12:58 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220827 11:12:58 [Note] Event Scheduler: Loaded 5 events
+220827 11:12:58 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220827 12:58:31 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Normal shutdown
+
+220827 12:58:31 [Note] Event Scheduler: Purging the queue. 5 events
+220827 12:58:31  InnoDB: Starting shutdown...
+220827 12:58:32  InnoDB: Shutdown completed; log sequence number 33205122297
+220827 12:58:32 [Note] D:\seal2022\MySQL5.5\bin\mysqld: Shutdown complete
+

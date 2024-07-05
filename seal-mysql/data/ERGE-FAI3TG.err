@@ -1,0 +1,38 @@
+220807 17:11:31 [Note] Plugin 'FEDERATED' is disabled.
+220807 17:11:31 InnoDB: The InnoDB memory heap is disabled
+220807 17:11:31 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220807 17:11:31 InnoDB: Compressed tables use zlib 1.2.3
+220807 17:11:31 InnoDB: Initializing buffer pool, size = 446.0M
+220807 17:11:31 InnoDB: Completed initialization of buffer pool
+220807 17:11:31 InnoDB: highest supported file format is Barracuda.
+220807 17:11:31  InnoDB: Waiting for the background threads to start
+220807 17:11:33 InnoDB: 1.1.8 started; log sequence number 33205120698
+220807 17:11:33 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:11:33 [Note] Event Scheduler: Loaded 3 events
+220807 17:11:33 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+220807 17:13:44 [Note] Plugin 'FEDERATED' is disabled.
+220807 17:13:44 InnoDB: The InnoDB memory heap is disabled
+220807 17:13:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220807 17:13:44 InnoDB: Compressed tables use zlib 1.2.3
+220807 17:13:44 InnoDB: Initializing buffer pool, size = 446.0M
+220807 17:13:44 InnoDB: Completed initialization of buffer pool
+220807 17:13:44 InnoDB: highest supported file format is Barracuda.
+220807 17:13:44  InnoDB: Waiting for the background threads to start
+220807 17:13:45 InnoDB: 1.1.8 started; log sequence number 33205120698
+220807 17:13:45 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+220807 17:13:46 [Note] Event Scheduler: Loaded 3 events
+220807 17:13:46 [Note] D:\seal2022\MySQL5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)

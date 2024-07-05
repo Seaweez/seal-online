@@ -1,0 +1,34 @@
+<?php 
+// Created by Ghilman
+// isghilman@gmail.com or fb.me/ghilmaanrashif
+
+
+if ($_POST['char_name'] == NULL) {
+	echo "Fuck";
+}else{
+	include '../oop.php';
+	if (!defined('GHIL')) exit('No direct script access allowed');
+	
+	$seal = new seal;
+	if(isset($_POST['check']) && $_POST['check'] == 1) {
+		$statusreset = $seal->statusreset($_POST['char_name'], array(), $_POST['check']);
+		echo $statusreset;
+	} else {
+		if($seal->onlinecheck() > 1) {
+			echo "You must offline in game to process this !";
+		} else {
+			$arr_status = array(
+				'str' => $_POST['str'],
+				'agi' => $_POST['agi'],
+				'int' => $_POST['int'],
+				'vit' => $_POST['vit'],
+				'wis' => $_POST['wis'],
+				'luk' => $_POST['luk'],
+			);
+			$statusreset = $seal->statusreset($_POST['char_name'], $arr_status);
+			echo $statusreset;
+		}
+	}
+
+}
+?>

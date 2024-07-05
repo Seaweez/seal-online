@@ -1,0 +1,30 @@
+221023  1:32:12 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023  1:32:12 [Note] Event Scheduler: Loaded 5 events
+221023  1:32:12 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+221023 20:50:43 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221023 20:50:43 [Note] Event Scheduler: Loaded 5 events
+221023 20:50:43 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+221027 20:31:01 [Warning] 'user' entry 'root@%' has both a password and an authentication plugin specified. The password will be ignored.
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [ERROR] Can't open shared library 'udf.dll' (errno: 0 )
+221027 20:31:02 [Note] Event Scheduler: Loaded 5 events
+221027 20:31:02 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)

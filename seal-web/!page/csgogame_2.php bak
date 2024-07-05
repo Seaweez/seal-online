@@ -1,0 +1,94 @@
+<div id="layout-wrapper">
+    <div class="main-content mb-4">
+        <div class="page-content">
+            <div class="container">
+                <div class="row">
+
+                    <style>
+                        .textz {
+                            font-size: 14px;
+                        }
+                    </style>
+                    <?php include './body/sidebar.php' ?>
+
+                    <div class="col-sm-12 col-md-9">
+                        <div class="card">
+                            <div class="card-body pt-2">
+                                <div class="p-2">
+
+                                    <div class="bg_contentlogin_reg">
+                                        <section class="examples example-1 text-center" style="width:100%;">
+                                            <div class="roller"></div>
+                                            <p><button type="button" class="btn btn-primary start-spin">เริ่มสุ่ม</button></p>
+                                        </section>
+                                        <div class="text-center mt-2 mb-2">
+                                            <p class="text-muted mb-0">** การสุ่ม 1 ครั้งจะต้องเสีย 150 Point **</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-body pt-2">
+                                <div class="p-2">
+
+                                    <h2>ประวัติการสุ่ม</h2>
+                                    <div class=" table-responsive pt-3 pb-3">
+                                        <table id="datatable_user_random" class="table table-striped ">
+                                            <thead>
+                                                <tr>
+                                                    <th>#</th>
+                                                    <th class="th-sm">เกม</th>
+                                                    <th class="th-md">รางวัล</th>
+                                                    <th class="th-lg">รายละเอียด</th>
+                                                    <th class="th-lg">วันที่-เวลา</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <?php
+                                                require_once './system/config.php';
+                                                $i = 1;
+                                                $q = dd_q("SELECT * FROM random_history WHERE user_id = ? ORDER BY date DESC", [$_SESSION['username']]);
+                                                while ($row = $q->fetch(PDO::FETCH_ASSOC)) {
+                                                ?>
+                                                    <tr>
+                                                        <td><?php echo $i; ?></td>
+                                                        <td><?php echo $row['game_name']; ?></td>
+                                                        <td><?php echo $row['item_name']; ?></td>
+                                                        <td><?php echo $row['item_detail']; ?></td>
+                                                        <td><?php echo $row['date']; ?></td>
+                                                    </tr>
+                                                <?php $i++;
+                                                } ?>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-6">
+                    Copyright ©
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script> - <a href="https://www.sealmaple.com/">MapleSeal</a>.
+                </div>
+                <div class="col-sm-6">
+                    <div class="text-sm-right d-none d-sm-block">
+                        Edit by Maple
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>

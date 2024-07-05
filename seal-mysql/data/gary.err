@@ -1,0 +1,79 @@
+190705 21:44:47 [Note] Plugin 'FEDERATED' is disabled.
+190705 21:44:47 InnoDB: The InnoDB memory heap is disabled
+190705 21:44:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190705 21:44:47 InnoDB: Compressed tables use zlib 1.2.3
+190705 21:44:47 InnoDB: Initializing buffer pool, size = 446.0M
+190705 21:44:47 InnoDB: Completed initialization of buffer pool
+190705 21:44:47 InnoDB: highest supported file format is Barracuda.
+190705 21:44:47  InnoDB: Waiting for the background threads to start
+190705 21:44:48 InnoDB: 1.1.8 started; log sequence number 6193675712
+190705 21:44:48 [Note] Event Scheduler: Loaded 4 events
+190705 21:44:48 [Note] D:\MySQL Server 5.5n\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+190705 21:53:15 [Note] Plugin 'FEDERATED' is disabled.
+190705 21:53:15 InnoDB: The InnoDB memory heap is disabled
+190705 21:53:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190705 21:53:15 InnoDB: Compressed tables use zlib 1.2.3
+190705 21:53:15 InnoDB: Initializing buffer pool, size = 446.0M
+190705 21:53:15 InnoDB: Completed initialization of buffer pool
+190705 21:53:15 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190705 21:53:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190705 21:53:15  InnoDB: Waiting for the background threads to start
+190705 21:53:16 InnoDB: 1.1.8 started; log sequence number 6400987959
+190705 21:53:16 [Note] Event Scheduler: Loaded 4 events
+190705 21:53:16 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+190705 21:53:47 [Warning] IP address '118.190.63.85' could not be resolved: 不知道这样的主机。 
+190705 21:53:58 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+190705 21:53:58 [Note] Event Scheduler: Purging the queue. 4 events
+190705 21:54:00 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 3  user: 'seal'
+
+190705 21:54:00  InnoDB: Starting shutdown...
+190705 21:54:00  InnoDB: Shutdown completed; log sequence number 6400987989
+190705 21:54:00 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
+190705 21:54:36 [Note] Plugin 'FEDERATED' is disabled.
+190705 21:54:36 InnoDB: The InnoDB memory heap is disabled
+190705 21:54:36 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190705 21:54:36 InnoDB: Compressed tables use zlib 1.2.3
+190705 21:54:36 InnoDB: Initializing buffer pool, size = 446.0M
+190705 21:54:36 InnoDB: Completed initialization of buffer pool
+190705 21:54:36 InnoDB: highest supported file format is Barracuda.
+190705 21:54:36  InnoDB: Waiting for the background threads to start
+190705 21:54:37 InnoDB: 1.1.8 started; log sequence number 6400987989
+190705 21:54:37 [Note] Event Scheduler: Loaded 4 events
+190705 21:54:37 [Note] D:\MySQL Server 5.5\bin\mysqld: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+190705 21:54:52 [Warning] IP address '118.190.63.85' could not be resolved: 不知道这样的主机。 
+190708 13:56:02 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Out of memory (Needed 1675264 bytes)
+190722 15:08:38 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Out of memory (Needed 1675264 bytes)
+190722 15:08:38 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Out of memory (Needed 1677712 bytes)
+190722 15:08:38 [ERROR] D:\MySQL Server 5.5\bin\mysqld: Out of memory (Needed 1677592 bytes)
+190803 17:49:52 [Note] D:\MySQL Server 5.5\bin\mysqld: Normal shutdown
+
+190803 17:49:52 [Note] Event Scheduler: Purging the queue. 4 events
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 37923  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 37921  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 34767  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 33918  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 33917  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 33904  user: 'lulu'
+
+190803 17:49:54 [Warning] D:\MySQL Server 5.5\bin\mysqld: Forcing close of thread 33903  user: 'lulu'
+
+190803 17:49:54  InnoDB: Starting shutdown...
+190803 17:49:55  InnoDB: Shutdown completed; log sequence number 7112116935
+190803 17:49:55 [Note] D:\MySQL Server 5.5\bin\mysqld: Shutdown complete
+
